@@ -4,15 +4,13 @@ a {
 	font-size: 1em;
 	text-decoration: none;
   	color: #FF9966; 
-  	background: white;
+  	background: darkslateblue;
   	-o-transition:color .2s ease-out, background .5s ease-in;
   	-ms-transition:color .2s ease-out, background .5s ease-in;
   	-moz-transition:color .2s ease-out, background .5s ease-in;
   	-webkit-transition:color .2s ease-out, background .5s ease-in;
-  	/* ...and now override with proper CSS property */
   	transition:color .2s ease-out, background .5s ease-in;
 }
-
 
 a:hover {
 	background: #FF9966;
@@ -33,7 +31,7 @@ body {
 	font-family: 'Karla', 'Georgia', sans-serif;
 	font-weight: 400;
 	font-size: 1em;
-	color: black;
+	color: midnightblue;
 	background-color: #FF9966;
 }
 
@@ -43,7 +41,7 @@ h1 {
 	font-weight: 400;
 	font-size: 2em;
 	color: #FF9966;
-	background: white;
+	background: darkslateblue;
 	padding: 20px;
 	text-align: center;
 	text-transform: lowercase;
@@ -54,7 +52,7 @@ h2 {
 	font-weight: 400;
 	font-size: 1.5em;
 	color: #FF9966;
-	background: white;
+	background: darkslateblue;
 	padding: 20px;
 	text-align: center;
 	text-transform: lowercase;
@@ -83,9 +81,9 @@ li {
 	margin-top: 10px;
 }
 
-ol.simple-list {
+/* ol.simple-list {
     list-style-type: none;
-    list-style-type: decimal !ie; /*IE 7- hack*/
+    list-style-type: decimal !ie;
     margin: 0;
     margin-left: 3em;
     padding: 0;
@@ -112,10 +110,26 @@ ol.simple-list > li:before {
  
     content: counter(li-counter);
     counter-increment: li-counter;
-}
+} */
 
-ul:hover {
-	background: white;
+/* working on selecting the individual li inside ul */
+ 
+/* ul:hover {
+	background: darkslateblue;
 	color: #FF9966;
-	padding-left: 40px white;
-}
+	padding-left: 40px darkslateblue;
+	-o-transition:color .2s ease-out, background .5s ease-in;
+  	-ms-transition:color .2s ease-out, background .5s ease-in;
+  	-moz-transition:color .2s ease-out, background .5s ease-in;
+  	-webkit-transition:color .2s ease-out, background .5s ease-in;
+  	transition:color .2s ease-out, background .5s ease-in;
+} */
+
+/* collapsible menus */
+.row { vertical-align: top; height:auto !important; padding-top: 10px;}
+.list {display:none; }
+.show {display: none; }
+.hide:target + .show {display: inline; }
+.hide:target {display: none; }
+.hide:target ~ .list {display:inline; }
+@media print { .hide, .show { display: none; } }

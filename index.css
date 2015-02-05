@@ -47,7 +47,7 @@ a {
 	font-weight: 400;
 	font-size: 1em;
 	text-decoration: none;
-  	color: #f2f2f2; 
+  	color: #333333; 
   	background: ;
   	-o-transition:color .2s ease-out, background .5s ease-in;
   	-ms-transition:color .2s ease-out, background .5s ease-in;
@@ -58,7 +58,7 @@ a {
 
 a:hover {
 	background: tomato;
-	color: #f2f2f2;
+	color: #333333;
 }
 
 .container {

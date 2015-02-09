@@ -33,8 +33,7 @@ p {font-size: 1em; }
 img {max-width: 100%; }
 
 body {
-  	background: -webkit-linear-gradient(45deg, #E6DADA, #274046); /* For Safari 5.1 to 6.0 */
-  	/*background-color: dimgray;*/
+  	background-color: dimgray;
 	margin: 0px;
 }
 
@@ -42,6 +41,8 @@ li {
 	margin-bottom: 12px;
 	margin-top: 12px;
 }
+
+/* links */
 
 a {
 	font-family: 'Roboto', 'Georgia', sans-serif;
@@ -58,14 +59,20 @@ a {
 }
 
 a:hover {
-	background: tomato;
-	color: #333333;
+	/*background: tomato;*/
+	
+	/* fallback */
+  	background-color: #dimgray;
+  	background-repeat: repeat-y;
+
+  	/* Safari 5.1, Chrome 10+ */
+  	background: -webkit-linear-gradient(top, dimgray, tomato);
+
 }
 
 .container {
 	width: 30%;
 	text-align: center;
-	background-color: dimgray;
 	padding-left: 35%;
 	padding-top: 10px;
 	padding-right: 35%;
@@ -78,7 +85,6 @@ a:hover {
 }
 
 /* intro edits */
-
 #intro {
 	width: 30%;
 	text-align: center;
@@ -90,7 +96,6 @@ a:hover {
 }
 
 /* brainstorming section edits */
-
 #brainstorming {
 	width: 30%;
 	text-align: center;

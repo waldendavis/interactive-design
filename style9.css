@@ -1,0 +1,134 @@
+/* style nine */
+
+body {
+    color: rgb(255, 255, 255);
+    min-width: 760px;
+    text-align: left;
+    width: 1424px;
+    perspective-origin: 712px 10595.296875px;
+    transform-origin: 712px 10595.296875px;
+    background: rgb(74, 82, 90) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 11px/19.7999992370605px Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 0px 8px 8px;
+    outline: rgb(255, 255, 255) none 0px;
+}
+
+p {
+    color: rgb(238, 238, 238);
+    text-align: left;
+    width: 425px;
+    perspective-origin: 212.5px 9.5px;
+    transform-origin: 212.5px 9.5px;
+    border: 0px none rgb(238, 238, 238);
+    font: normal normal normal normal 11px/19.7999992370605px Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 0px 0px 17.6000003814697px;
+    outline: rgb(238, 238, 238) none 0px;
+}
+
+#DIV_33 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    width: 720px;
+    perspective-origin: 360px 10595.296875px;
+    transform-origin: 360px 10595.296875px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 11px/19.7999992370605px Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 0px 352px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_33*/
+
+#DIV_37 {
+    color: rgb(238, 238, 238);
+    height: 308px;
+    position: absolute;
+    text-align: right;
+    top: 189px;
+    width: 160px;
+    align-self: stretch;
+    perspective-origin: 80px 156.5px;
+    transform-origin: 80px 156.5px;
+    border: 0px dotted rgb(128, 128, 128);
+    font: normal normal normal normal 11px/11px 'Gill Sans MT', 'Gill Sans', 'Gill Sans Std', Verdana, 'Bitstream Vera Sans', sans-serif;
+    outline: rgb(238, 238, 238) none 0px;
+    padding: 5px 0px 0px;
+}/*#DIV_37*/
+
+#P_38 {
+    color: rgb(238, 238, 238);
+    height: 11px;
+    letter-spacing: 2px;
+    text-align: right;
+    width: 193px;
+    perspective-origin: 96.5px 5.5px;
+    transform-origin: 96.5px 5.5px;
+    border: 0px none rgb(238, 238, 238);
+    font: normal normal normal normal 11px/11px 'Gill Sans MT', 'Gill Sans', 'Gill Sans Std', Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 0px 0px 55px -33px;
+    outline: rgb(238, 238, 238) none 0px;
+}/*#P_38*/
+
+#STRONG_39 {
+    color: rgb(238, 238, 238);
+    letter-spacing: 2px;
+    text-align: right;
+    text-transform: uppercase;
+    border: 0px none rgb(238, 238, 238);
+    font: normal normal normal normal 11px/11px 'Gill Sans MT', 'Gill Sans', 'Gill Sans Std', Verdana, 'Bitstream Vera Sans', sans-serif;
+    outline: rgb(238, 238, 238) none 0px;
+}/*#STRONG_39*/
+
+#DIV_69 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    width: 425px;
+    perspective-origin: 212.5px 10530.296875px;
+    transform-origin: 212.5px 10530.296875px;
+    border: 0px dotted rgb(128, 128, 128);
+    font: normal normal normal normal 11px/19.7999992370605px Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 0px 0px 0px 222px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_69*/
+
+#DL_70 {
+    color: rgb(238, 238, 238);
+    height: 445.328125px;
+    text-align: left;
+    width: 425px;
+    perspective-origin: 212.5px 222.65625px;
+    transform-origin: 212.5px 222.65625px;
+    border: 0px solid rgb(102, 102, 102);
+    font: normal normal normal normal 11px/19.7999992370605px Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 11px 0px;
+    outline: rgb(238, 238, 238) none 0px;
+}/*#DL_70*/
+
+#DT_71, #DT_82, #DT_93, #DT_108, #DT_115, #DT_125, #DT_136, #DT_145, #DT_157, #DT_183, #DT_188, #DT_198, #DT_209, #DT_239, #DT_268, #DT_285, #DT_295, #DT_377, #DT_388, #DT_430, #DT_439, #DT_469, #DT_474, #DT_508 {
+    color: rgb(238, 238, 238);
+    height: 20px;
+    letter-spacing: 1.73250007629395px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 425px;
+    perspective-origin: 212.5px 10px;
+    transform-origin: 212.5px 10px;
+    border: 0px none rgb(238, 238, 238);
+    font: normal normal normal normal 11.5500001907349px/19.7999992370605px 'Gill Sans MT', 'Gill Sans', 'Gill Sans Std', Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 23.1000003814697px 0px 11.5500001907349px;
+    outline: rgb(238, 238, 238) none 0px;
+    padding-top: 168px;
+}/*#DT_71, #DT_82, #DT_93, #DT_108, #DT_115, #DT_125, #DT_136, #DT_145, #DT_157, #DT_183, #DT_188, #DT_198, #DT_209, #DT_239, #DT_268, #DT_285, #DT_295, #DT_377, #DT_388, #DT_430, #DT_439, #DT_469, #DT_474, #DT_508*/
+
+#DD_74 {
+    color: rgb(238, 238, 238);
+    height: 413.78125px;
+    text-align: left;
+    width: 425px;
+    perspective-origin: 212.5px 206.890625px;
+    transform-origin: 212.5px 206.890625px;
+    border: 0px none rgb(238, 238, 238);
+    font: normal normal normal normal 11px/19.7999992370605px Verdana, 'Bitstream Vera Sans', sans-serif;
+    margin: 0px 0px 55px;
+    outline: rgb(238, 238, 238) none 0px;
+}/*#DD_74*/
+

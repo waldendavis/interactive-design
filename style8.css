@@ -1,0 +1,134 @@
+/* style eight */
+
+p {
+    color: rgb(28, 28, 28);
+    width: 696px;
+    perspective-origin: 348px 24px;
+    transform-origin: 348px 24px;
+    border: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    margin: 0px 0px 16px;
+    outline: rgb(28, 28, 28) none 0px;
+}/*#P_111, #P_133, #P_141*/
+
+#DIV_101 {
+    color: rgb(28, 28, 28);
+    height: 40px;
+    width: 928px;
+    perspective-origin: 464px 20.5px;
+    transform-origin: 464px 20.5px;
+    border-top: 1px dotted rgb(254, 166, 52);
+    border-right: 0px none rgb(28, 28, 28);
+    border-bottom: 0px none rgb(28, 28, 28);
+    border-left: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    margin: 25px 16px 32px;
+    outline: rgb(28, 28, 28) none 0px;
+    padding-left: 20%;
+}/*#DIV_101*/
+
+#DIV_102 {
+    color: rgb(28, 28, 28);
+    width: 928px;
+    perspective-origin: 464px 16px;
+    transform-origin: 464px 16px;
+    border: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    margin: 8px 0px 0px;
+    outline: rgb(28, 28, 28) none 0px;
+    padding: 32px 0px 0px;
+}/*#DIV_102*/
+
+#DIV_103 {
+    color: rgb(28, 28, 28);
+    float: left;
+    height: 2319.796875px;
+    width: 696px;
+    perspective-origin: 348px 1159.890625px;
+    transform-origin: 348px 1159.890625px;
+    border: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    margin: 0px 32px 0px 0px;
+    outline: rgb(28, 28, 28) none 0px;
+}/*#DIV_103*/
+
+#ARTICLE_104 {
+    clear: both;
+    color: rgb(28, 28, 28);
+    width: 696px;
+    perspective-origin: 348px 1000.203125px;
+    transform-origin: 348px 1000.203125px;
+    border: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    outline: rgb(28, 28, 28) none 0px;
+    overflow: hidden;
+}/*#ARTICLE_104*/
+
+#HEADER_105 {
+    color: rgb(28, 28, 28);
+    height: 65.390625px;
+    width: 696px;
+    perspective-origin: 348px 32.6875px;
+    transform-origin: 348px 32.6875px;
+    border: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    margin: 0px 0px 8px;
+    outline: rgb(28, 28, 28) none 0px;
+}/*#HEADER_105*/
+
+#H2_106 {
+    clear: both;
+    color: rgb(51, 51, 51);
+    height: 36px;
+    text-transform: uppercase;
+    width: 696px;
+    perspective-origin: 348px 18px;
+    transform-origin: 348px 18px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal 500 normal 36px/36px freight-sans-pro, Arial;
+    margin: 0px 0px 5.40000009536743px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#H2_106*/
+
+#A_107 {
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 36px/36px freight-sans-pro, Arial;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#A_107*/
+
+#SPAN_108 {
+    clear: both;
+    color: rgb(142, 142, 142);
+    border: 0px none rgb(142, 142, 142);
+    font: italic normal 100 normal 12.8000001907349px/19.2000007629395px freight-sans-pro, Arial;
+    outline: rgb(142, 142, 142) none 0px;
+}/*#SPAN_108*/
+
+#DIV_109 {
+    color: rgb(28, 28, 28);
+    width: 696px;
+    perspective-origin: 348px 947.5px;
+    transform-origin: 348px 947.5px;
+    border-top: 0px none rgb(28, 28, 28);
+    border-right: 0px none rgb(28, 28, 28);
+    border-bottom: 1px dotted rgb(254, 166, 52);
+    border-left: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    margin: 0px 0px 32px;
+    outline: rgb(28, 28, 28) none 0px;
+    padding: 0px 0px 16px;
+}/*#DIV_109*/
+
+#DIV_110 {
+    color: rgb(28, 28, 28);
+    width: 696px;
+    perspective-origin: 348px 939px;
+    transform-origin: 348px 939px;
+    border: 0px none rgb(28, 28, 28);
+    font: normal normal normal normal 16px/24px freight-sans-pro, Arial;
+    outline: rgb(28, 28, 28) none 0px;
+}/*#DIV_110*/
+

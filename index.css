@@ -6,6 +6,10 @@ h1, h2 {
 	text-transform: lowercase;
 }
 
+h1 {font-size: 2em; }
+
+h2 {font-size: 1.5em; }
+
 p, ul, ol, li {
 	font-family: 'Roboto', 'Georgia', sans-serif;
 	font-weight: 400;
@@ -24,25 +28,24 @@ strong {
 	font-size: 1em;
 }
 
-h1 {font-size: 2em; }
-
-h2 {font-size: 1.5em; }
-
 p {font-size: 1em; }
 
 img {max-width: 100%; }
 
 body {
-  	background-color: dimgray;
+  	background-color: rgb(255, 191, 0);
 	margin: 0px;
 }
 
-li {
-	margin-bottom: 12px;
-	margin-top: 12px;
+.howto {
+	height: 5000px;
+	text-align: center;
+	margin: 0px;
+	width: 100%;
+	border: solid black 1px;
 }
 
-/* links */
+/* ------------------------- links ------------------------- */
 
 a {
 	font-family: 'Roboto', 'Georgia', sans-serif;
@@ -59,30 +62,77 @@ a {
 }
 
 a:hover {
-	/*background: tomato;*/
-	
-	/* fallback */
-  	background-color: #dimgray;
-  	background-repeat: repeat-y;
-
-  	/* Safari 5.1, Chrome 10+ */
-  	background: -webkit-linear-gradient(top, dimgray, tomato);
-
+	background: white;
 }
 
-.container {
+/* ------------------------- navigation ------------------------- */
+
+.box {
+	height: 100vh;
+	width: 100%;
+	margin: 0px;
+}
+
+.nav {
+	height: 5%;
+	width: 10%;
+	background-color: white;
+	display: inline-block;
+	margin: 20px;
+	vertical-align: bottom;
+	border: solid black 1px;
+}
+
+.nav img {
+	max-width: 100%;
+}
+
+.navlink {
+	height: 5%;
+	width: 10%;
+	background-color: white;
+	display: inline-block;
+	margin: 20px;
+	vertical-align: bottom;
+	border: solid black 1px;
+}
+
+/*.link {
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	display: inline-block;
+	margin: 0px;
+	position: relative;
+	vertical-align: bottom;
+}*/
+
+/*.container {
 	width: 30%;
 	text-align: center;
 	padding-left: 35%;
 	padding-top: 10px;
 	padding-right: 35%;
 	padding-bottom: 10px;
-}
+}*/
 
-.navigation {
+/*.navigation {
 	text-align: left;
 	color: #333333;
+}*/
+
+
+
+
+
+li {
+	margin-bottom: 12px;
+	margin-top: 12px;
 }
+
+
+
+/* ------------------------- how to ------------------------- */
 
 /* intro edits */
 #intro {

@@ -1,17 +1,22 @@
-h1, h2 {
-	font-family: 'Roboto', 'Georgia', sans-serif;
-	font-weight: 400;
-	color: #333333;
-	text-align: left;
-	text-transform: lowercase;
+
+/* header styling */
+
+h1, h2, {
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-style: italic;
+	color: white;
+	text-align: center;
 }
 
-h1 {font-size: 2em; }
+h1 {font-size: 5em; }
 
 h2 {font-size: 1.5em; }
 
-p, ul, ol, li {
-	font-family: 'Roboto', 'Georgia', sans-serif;
+/* paragraph, list, link, bold styling */
+
+p, ul, li, a, strong {
+	font-family: 'Cabin', sans-serif;
 	font-weight: 400;
 	color: #333333;
 	text-align: left;
@@ -20,20 +25,19 @@ p, ul, ol, li {
 }
 
 strong {
-	font-family: 'Roboto', 'Georgia', sans-serif;
-	font-weight: 400;
+	font-weight: 600;
 	color: #f2f2f2;
-	text-align: left;
-	text-transform: lowercase;
-	font-size: 1em;
 }
 
-p {font-size: 1em; }
+li {
+	margin-bottom: 12px;
+	margin-top: 12px;
+}
 
-img {max-width: 100%; }
+/* body styling */
 
 body {
-  	background-color: rgb(255, 191, 0);
+  	background-color: #E0DEDE;
 	margin: 0px;
 }
 
@@ -42,142 +46,111 @@ body {
 	text-align: center;
 	margin: 0px;
 	width: 100%;
-	border: solid black 1px;
 }
 
 /* ------------------------- links ------------------------- */
 
 a {
-	font-family: 'Roboto', 'Georgia', sans-serif;
-	font-weight: 400;
-	font-size: 1em;
 	text-decoration: none;
   	color: #333333; 
   	background: ;
-  	-o-transition:color .2s ease-out, background .5s ease-in;
-  	-ms-transition:color .2s ease-out, background .5s ease-in;
-  	-moz-transition:color .2s ease-out, background .5s ease-in;
-  	-webkit-transition:color .2s ease-out, background .5s ease-in;
-  	transition:color .2s ease-out, background .5s ease-in;
 }
 
 a:hover {
-	background: white;
+	background-color: white;
+}
+
+.nonhover {
+	font-size: 1.5em;
+	color: #333333;
+}
+
+.nonhover:hover {
+	background-color: #FBB03B;
+	color: white;
 }
 
 /* ------------------------- navigation ------------------------- */
 
-.box {
-	height: 100vh;
-	width: 100%;
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
 	margin: 0px;
 }
 
-.nav {
-	height: 5%;
-	width: 10%;
-	background-color: white;
+/*  COLUMN SETUP  */
+.col {
 	display: inline-block;
-	margin: 20px;
-	vertical-align: bottom;
-	border: solid black 1px;
-}
-
-.nav img {
-	max-width: 100%;
-}
-
-.navlink {
-	height: 5%;
-	width: 10%;
-	background-color: white;
-	display: inline-block;
-	margin: 20px;
-	vertical-align: bottom;
-	border: solid black 1px;
-}
-
-/*.link {
-	height: 100px;
-	width: 100px;
-	background-color: black;
-	display: inline-block;
-	margin: 0px;
-	position: relative;
-	vertical-align: bottom;
-}*/
-
-/*.container {
-	width: 30%;
+	float: left;
+	margin: 0% 0% 0% 0%;
+	height: 210px;
 	text-align: center;
-	padding-left: 35%;
-	padding-top: 10px;
-	padding-right: 35%;
-	padding-bottom: 10px;
-}*/
+	position: relative;
+	
+	/* for a border, should I want one */
 
-/*.navigation {
-	text-align: left;
-	color: #333333;
-}*/
-
-
-
-
-
-li {
-	margin-bottom: 12px;
-	margin-top: 12px;
+	/*box-sizing: border-box;
+	border: 0.5px solid #FBB03B;*/
 }
 
+/* HOVER STATE FOR GRID */
+.col:hover {
+	background-color: #FBB03B;
+}
 
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF FOUR  */
+.span100 {width: 100%; }
+.span75 {width: 65%; }
+.span50 {width: 40%; }
+.span25 {width: 25%; }
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 0% 0% 0% 0%; }
+	.span25, .span50, .span75, .span100 { width: 100%; }
+}
+
+/* MAKE DIVS INTO LINKS */
+.divlink { 
+  position: absolute; 
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+
+  /* edit: added z-index */
+  z-index: 1;
+
+  /* edit: fixes overlap error in IE7/8, make sure you have an empty gif */
+  /*background-image: url('empty.gif');*/
+}   
 
 /* ------------------------- how to ------------------------- */
 
-/* intro edits */
-#intro {
+#intro, #brainstorming, #testing-the-design, #finalizing-the-design {
 	width: 30%;
-	text-align: center;
-	background-color: dimgray;
+	text-align: left;
 	padding-left: 35%;
 	padding-top: 10px;
 	padding-right: 35%;
 	padding-bottom: 10px;
 }
 
-/* brainstorming section edits */
-#brainstorming {
-	width: 30%;
-	text-align: center;
+#brainstorming, #finalizing-the-design {
 	background-color: darkgrey;
-	padding-left: 35%;
-	padding-top: 10px;
-	padding-right: 35%;
-	padding-bottom: 10px;
 }
 
-/* testing the design section edits */
-
-#testing-the-design {
-	width: 30%;
-	text-align: center;
+#intro, #testing-the-design {
 	background-color: dimgray;
-	padding-left: 35%;
-	padding-top: 10px;
-	padding-right: 35%;
-	padding-bottom: 10px;
-}
-
-/* finalizing the design section edits */
-
-#finalizing-the-design {
-	width: 30%;
-	text-align: center;
-	background-color: darkgrey;
-	padding-left: 35%;
-	padding-top: 10px;
-	padding-right: 35%;
-	padding-bottom: 10px;
 }
 
 /* collapsible menus */

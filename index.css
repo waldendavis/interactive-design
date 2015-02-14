@@ -66,6 +66,12 @@ a:hover {
 	background-color: #FBB03B;
 }
 
+/* where I stopped designing, working on headline hover */
+
+/*a.grid-special:hover {
+	color: #FBB03B;
+}*/
+
 /* ------------------------- grid ------------------------- */
 
 .grid-wrap {    
@@ -116,24 +122,54 @@ span.grid-box {
 a.grid-box:hover {
 	background: #FBB03B; /* color of the background on hover */
 	cursor: pointer;
-	/* L's pulse animation */
-	-webkit-animation: happy_pulse 1.2s ease-out;
+	-webkit-animation: happy 1s ease-out;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-delay: 0.5s;
 	animation-delay: 0.5s;
 }
 
-@-webkit-keyframes happy_pulse {
+/* where I stopped designing, working on headline hover */
+
+/*a.grid-special:hover {
+	background: #E0DEDE;
+	cursor: pointer;
+	-webkit-animation: happy-special 1s ease-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-delay: 0.5s;
+	animation-delay: 0.5s;
+}*/
+
+@-webkit-keyframes happy {
     0% { background: #FBB03B; }
     50% { background: #E0DEDE; }
     100% { background: #FBB03B; }
 }
+
+/*@-webkit-keyframes happy-special {
+    0% { color: #FBB03B; }
+    50% { color: #E0DEDE; }
+    100% { color: #FBB03B; }
+}*/
 
 .grid-box .class,
 .grid-expanded .class,
 .grid-box .date,
 .grid-expanded .date {
 	display: block;
+}
+
+/* mainly for howtohome.html */
+
+.grid-fixed {
+	position: fixed;
+	top: 0%;
+	left: 0%;
+}
+
+.grid-absolute {
+	position: absolute;
+	top: 25%;
+	left: 0%;
 }
 
 /* --------------------------------------------- needed? from L's site */

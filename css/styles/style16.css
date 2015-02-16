@@ -1,0 +1,5183 @@
+/* style sixteen */
+
+#HTML_1 {
+    box-sizing: border-box;
+    height: 14288.390625px;
+    text-rendering: optimizelegibility;
+    width: 1440px;
+    z-index: 0;
+    perspective-origin: 720px 7144.1875px;
+    transform-origin: 720px 7144.1875px;
+    font: normal normal normal normal 16px/normal Times;
+}/*#HTML_1*/
+
+#HEAD_2, #SCRIPT_3, #STYLE_5, #META_7, #TITLE_9, #SCRIPT_11, #SCRIPT_13, #SCRIPT_15, #SCRIPT_17, #LINK_19, #SCRIPT_21, #STYLE_23, #SCRIPT_25, #LINK_27, #SCRIPT_29, #LINK_31, #LINK_33, #META_35, #LINK_37, #META_39, #META_41, #META_43, #META_45, #META_47, #META_49, #META_51, #LINK_53, #LINK_55, #SCRIPT_57, #SCRIPT_59, #SCRIPT_61, #SCRIPT_63, #SCRIPT_65, #META_67, #LINK_69, #META_71, #META_73, #META_75, #META_77, #META_79, #LINK_81, #LINK_83, #LINK_85, #STYLE_87, #STYLE_89 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    font: normal normal normal normal 16px/normal Times;
+}/*#HEAD_2, #SCRIPT_3, #STYLE_5, #META_7, #TITLE_9, #SCRIPT_11, #SCRIPT_13, #SCRIPT_15, #SCRIPT_17, #LINK_19, #SCRIPT_21, #STYLE_23, #SCRIPT_25, #LINK_27, #SCRIPT_29, #LINK_31, #LINK_33, #META_35, #LINK_37, #META_39, #META_41, #META_43, #META_45, #META_47, #META_49, #META_51, #LINK_53, #LINK_55, #SCRIPT_57, #SCRIPT_59, #SCRIPT_61, #SCRIPT_63, #SCRIPT_65, #META_67, #LINK_69, #META_71, #META_73, #META_75, #META_77, #META_79, #LINK_81, #LINK_83, #LINK_85, #STYLE_87, #STYLE_89*/
+
+#DIV_4 {
+    box-sizing: border-box;
+    display: none;
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    font: normal normal normal normal 16px/normal Times;
+}/*#DIV_4*/
+
+#SCRIPT_6, #META_8, #SCRIPT_12, #STYLE_16, #LINK_20, #SCRIPT_24, #SCRIPT_28, #LINK_32, #LINK_36, #META_40, #META_44, #META_48, #LINK_52, #SCRIPT_56, #LINK_60, #LINK_66, #META_70, #META_74, #META_78, #LINK_82, #LINK_86 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    font: normal normal normal normal 16px/normal Times;
+}/*#SCRIPT_6, #META_8, #SCRIPT_12, #STYLE_16, #LINK_20, #SCRIPT_24, #SCRIPT_28, #LINK_32, #LINK_36, #META_40, #META_44, #META_48, #LINK_52, #SCRIPT_56, #LINK_60, #LINK_66, #META_70, #META_74, #META_78, #LINK_82, #LINK_86*/
+
+#META_10, #SCRIPT_14, #SCRIPT_22, #SCRIPT_30, #LINK_38, #META_46, #LINK_54, #SCRIPT_62, #META_68, #META_76, #LINK_84 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    font: normal normal normal normal 16px/normal Times;
+}/*#META_10, #SCRIPT_14, #SCRIPT_22, #SCRIPT_30, #LINK_38, #META_46, #LINK_54, #SCRIPT_62, #META_68, #META_76, #LINK_84*/
+
+#SCRIPT_18, #LINK_26, #META_42, #SCRIPT_58, #META_72, #STYLE_88 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    font: normal normal normal normal 16px/normal Times;
+}/*#SCRIPT_18, #LINK_26, #META_42, #SCRIPT_58, #META_72, #STYLE_88*/
+
+#LINK_34, #META_50, #STYLE_80 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    font: normal normal normal normal 16px/normal Times;
+}/*#LINK_34, #META_50, #STYLE_80*/
+
+#IFRAME_64 {
+    box-sizing: border-box;
+    display: none;
+    height: auto;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    visibility: hidden;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 16px/normal Times;
+}/*#IFRAME_64*/
+
+#BODY_90 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 1440px;
+    background: rgb(254, 254, 254) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    overflow: auto;
+    padding: 0px 20px;
+}/*#BODY_90*/
+
+#DIV_91 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 1400px;
+    perspective-origin: 700px 0px;
+    transform-origin: 700px 0px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_91*/
+
+#SCRIPT_92, #SCRIPT_94, #SCRIPT_506, #SCRIPT_508, #STYLE_513, #STYLE_555, #SCRIPT_641, #SCRIPT_643, #SCRIPT_645, #SCRIPT_647, #SCRIPT_649, #SCRIPT_651, #SCRIPT_653, #SCRIPT_655, #SCRIPT_657, #SCRIPT_659, #NOSCRIPT_661, #SCRIPT_663, #SCRIPT_665 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SCRIPT_92, #SCRIPT_94, #SCRIPT_506, #SCRIPT_508, #STYLE_513, #STYLE_555, #SCRIPT_641, #SCRIPT_643, #SCRIPT_645, #SCRIPT_647, #SCRIPT_649, #SCRIPT_651, #SCRIPT_653, #SCRIPT_655, #SCRIPT_657, #SCRIPT_659, #NOSCRIPT_661, #SCRIPT_663, #SCRIPT_665*/
+
+#DIV_93 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    text-rendering: optimizelegibility;
+    visibility: hidden;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_93*/
+
+#DIV_95 {
+    box-sizing: border-box;
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(34, 34, 34);
+    height: 1px;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    overflow: hidden;
+}/*#DIV_95*/
+
+#P_96 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 144px;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 72px;
+    transform-origin: 0.5px 72px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_96*/
+
+#DIV_97 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 7135.1875px;
+    transform-origin: 512px 7135.1875px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 188px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_97*/
+
+#DIV_98 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 0px;
+    transform-origin: 512px 0px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_98*/
+
+#DIV_99, #DIV_100 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    orphans: 4321;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_99, #DIV_100*/
+
+#SCRIPT_101 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    orphans: 4321;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SCRIPT_101*/
+
+#DIV_102 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 108.390625px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    z-index: 2;
+    perspective-origin: 512px 54.1875px;
+    transform-origin: 512px 54.1875px;
+    border-top: 5px solid rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 0px none rgb(34, 34, 34);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 8px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 10px 0px 20px;
+}/*#DIV_102*/
+
+#H2_103 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 36px;
+    max-width: 100%;
+    position: relative;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    width: 517px;
+    z-index: 3;
+    perspective-origin: 258.5px 18px;
+    transform-origin: 258.5px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 6.40000009536743px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H2_103*/
+
+#H2_103:after {
+    clear: both;
+    color: rgb(34, 34, 34);
+    display: table;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H2_103:after*/
+
+#A_104 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    float: left;
+    height: 36px;
+    max-width: 100%;
+    text-decoration: none;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    width: 330px;
+    perspective-origin: 165px 18px;
+    transform-origin: 165px 18px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/logo-vertical@2x.png) no-repeat scroll 0% 0% / 330px 36px padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_104*/
+
+#SMALL_105 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    float: left;
+    height: 36px;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    width: 186px;
+    perspective-origin: 93px 18px;
+    transform-origin: 93px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 1px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SMALL_105*/
+
+#A_106 {
+    background-position: 0px -828px;
+    box-sizing: border-box;
+    color: rgb(242, 177, 17);
+    display: block;
+    height: 36px;
+    text-decoration: none;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    width: 186px;
+    perspective-origin: 93px 18px;
+    transform-origin: 93px 18px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/src-sprites-retina-s4b86ec57fa.png) no-repeat scroll 0px -828px / 186px padding-box border-box;
+    border: 0px none rgb(242, 177, 17);
+    font: normal normal bold normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(242, 177, 17) none 0px;
+}/*#A_106*/
+
+#DIV_107 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 30px;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: 200px;
+    perspective-origin: 100px 15px;
+    transform-origin: 100px 15px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 1px 0px 0px 15px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_107*/
+
+#DIV_108 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    orphans: 4321;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_108*/
+
+#DIV_109 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    orphans: 4321;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_109*/
+
+#SCRIPT_110 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    orphans: 4321;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SCRIPT_110*/
+
+#FORM_111 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 24px;
+    position: absolute;
+    right: 161px;
+    text-rendering: optimizelegibility;
+    top: 14.3999996185303px;
+    width: 28.359375px;
+    align-self: stretch;
+    perspective-origin: 14.171875px 12px;
+    transform-origin: 14.171875px 12px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#FORM_111*/
+
+#LABEL_112 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    display: block;
+    height: 11px;
+    left: 8px;
+    letter-spacing: 1px;
+    opacity: 0;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    top: 7px;
+    width: 54.921875px;
+    z-index: 0;
+    align-self: stretch;
+    perspective-origin: 27.453125px 5.5px;
+    transform-origin: 27.453125px 5.5px;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 11.1999998092651px/11.1999998092651px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#LABEL_112*/
+
+#INPUT_113 {
+    height: 24px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    vertical-align: top;
+    width: 0px;
+    z-index: 0;
+    perspective-origin: 0px 12px;
+    transform-origin: 0px 12px;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    padding: 5.5px 0px;
+    transition: all 0.2s ease 0s;
+}/*#INPUT_113*/
+
+#INPUT_114 {
+    clip: rect(1px 1px 1px 1px);
+    cursor: default;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    vertical-align: top;
+    white-space: pre;
+    width: 0px;
+    z-index: 0;
+    align-items: flex-start;
+    align-self: stretch;
+    perspective-origin: 0px 0.5px;
+    transform-origin: 0px 0.5px;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(0, 0, 0);
+    overflow: hidden;
+    padding: 0px;
+    transition: all 0.2s ease 0s;
+}/*#INPUT_114*/
+
+#BUTTON_115 {
+    color: rgb(147, 149, 152);
+    cursor: pointer;
+    height: 24px;
+    min-height: 0px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    vertical-align: top;
+    width: 24px;
+    z-index: 3;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(147, 149, 152);
+    outline: rgb(147, 149, 152) none 0px;
+    padding: 5.5px 0px;
+}/*#BUTTON_115*/
+
+#I_116 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    cursor: pointer;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    align-self: flex-start;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 13.1999998092651px/13.1999998092651px fte-icons;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#I_116*/
+
+#I_116:before {
+    color: rgb(147, 149, 152);
+    cursor: pointer;
+    speak: none;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 13.1999998092651px/13.1999998092651px fte-icons;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#I_116:before*/
+
+#SPAN_117 {
+    box-sizing: border-box;
+    clip: rect(1px 1px 1px 1px);
+    color: rgb(147, 149, 152);
+    cursor: pointer;
+    display: block;
+    height: 1px;
+    position: absolute;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 11px/normal '.HelveticaNeueDeskInterface-Regular';
+    outline: rgb(147, 149, 152) none 0px;
+    overflow: hidden;
+}/*#SPAN_117*/
+
+#UL_118 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 24px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 14.3999996185303px;
+    width: 155.71875px;
+    z-index: 3;
+    align-self: stretch;
+    perspective-origin: 77.859375px 12px;
+    transform-origin: 77.859375px 12px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_118*/
+
+#LI_119, #LI_121 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 24px;
+    text-rendering: optimizelegibility;
+    vertical-align: middle;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px 7px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_119, #LI_121*/
+
+#A_120 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: block;
+    height: 24px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_120*/
+
+#A_120:after {
+    color: rgb(128, 130, 133);
+    text-align: center;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/24px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_120:after*/
+
+#A_122 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: block;
+    height: 24px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 24px;
+    perspective-origin: 12px 12px;
+    transform-origin: 12px 12px;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_122*/
+
+#A_122:after {
+    color: rgb(128, 130, 133);
+    text-align: center;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 14px/24px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_122:after*/
+
+#LI_123 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 24px;
+    text-rendering: optimizelegibility;
+    vertical-align: middle;
+    width: 78px;
+    perspective-origin: 39px 12px;
+    transform-origin: 39px 12px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px 7px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_123*/
+
+#A_124 {
+    background-position: 15px 50%;
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: block;
+    height: 24px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 73px;
+    perspective-origin: 36.5px 12px;
+    transform-origin: 36.5px 12px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/espn-logo@2x.png) no-repeat scroll 15px 50% / 52px 13px padding-box border-box;
+    border-top: 0px none rgb(128, 130, 133);
+    border-right: 0px none rgb(128, 130, 133);
+    border-bottom: 0px none rgb(128, 130, 133);
+    border-left: 1px solid rgb(128, 128, 128);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    margin: 0px 5px 0px 0px;
+    outline: rgb(128, 130, 133) none 0px;
+    padding: 0px 0px 0px 15px;
+}/*#A_124*/
+
+#NAV_125 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 31px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 15.5px;
+    transform-origin: 512px 15.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#NAV_125*/
+
+#SPAN_126 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_126*/
+
+#DIV_127 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 31px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 15.5px;
+    transform-origin: 512px 15.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_127*/
+
+#UL_128 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table;
+    height: 31px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 15.5px;
+    transform-origin: 512px 15.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_128*/
+
+#LI_129 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 30.5px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 171px;
+    perspective-origin: 85.5px 15.25px;
+    transform-origin: 85.5px 15.25px;
+    background: rgb(240, 240, 240) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 5px solid rgb(91, 94, 95);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 0px none rgb(34, 34, 34);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_129*/
+
+#LI_129:after {
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 16px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 6.40000009536743px;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 8px;
+    transform-origin: 0.5px 8px;
+    content: '';
+    background: rgb(91, 94, 95) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_129:after*/
+
+#LI_129:before {
+    color: rgb(91, 94, 95);
+    display: block;
+    float: left;
+    height: 13px;
+    text-rendering: optimizelegibility;
+    width: 20.6875px;
+    perspective-origin: 10.34375px 6.5px;
+    transform-origin: 10.34375px 6.5px;
+    content: '';
+    border: 0px none rgb(91, 94, 95);
+    font: normal normal normal normal 12.8000001907349px/12.8000001907349px fte-icons;
+    list-style: none outside none;
+    margin: 7px 0px 0px 10px;
+    outline: rgb(91, 94, 95) none 0px;
+}/*#LI_129:before*/
+
+#A_130, #A_150, #A_171, #A_191 {
+    box-sizing: border-box;
+    color: rgb(91, 94, 95);
+    display: block;
+    height: 25.5px;
+    letter-spacing: 1px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 171px;
+    perspective-origin: 85.5px 12.75px;
+    transform-origin: 85.5px 12.75px;
+    border: 0px none rgb(91, 94, 95);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(91, 94, 95) none 0px;
+    padding: 5.75999975204468px 14.3999996185303px;
+}/*#A_130, #A_150, #A_171, #A_191*/
+
+#DIV_131 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 100%;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px solid rgb(91, 94, 95);
+    border-right: 4px solid rgb(91, 94, 95);
+    border-bottom: 4px solid rgb(91, 94, 95);
+    border-left: 4px solid rgb(91, 94, 95);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_131*/
+
+#UL_132 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_132*/
+
+#LI_133, #LI_135, #LI_137, #LI_139, #LI_141, #LI_143, #LI_145 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 1px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#LI_133, #LI_135, #LI_137, #LI_139, #LI_141, #LI_143, #LI_145*/
+
+#A_134, #A_136, #A_140, #A_144 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    letter-spacing: 1px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 14.3999996185303px 0px 14.3999996185303px 5px;
+}/*#A_134, #A_136, #A_140, #A_144*/
+
+#A_134:after, #A_136:after, #A_140:after, #A_144:after {
+    bottom: -1px;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 1px;
+    left: 0px;
+    letter-spacing: 1px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 100%;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '';
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px dashed rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_134:after, #A_136:after, #A_140:after, #A_144:after*/
+
+#A_138, #A_142 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    letter-spacing: 1px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 14.3999996185303px 0px 14.3999996185303px 5px;
+}/*#A_138, #A_142*/
+
+#A_138:after, #A_142:after {
+    bottom: -1px;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 1px;
+    left: 0px;
+    letter-spacing: 1px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 100%;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '';
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px dashed rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_138:after, #A_142:after*/
+
+#A_146 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    letter-spacing: 1px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 14.3999996185303px 0px 14.3999996185303px 5px;
+}/*#A_146*/
+
+#A_146:after {
+    bottom: -1px;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 1px;
+    left: 0px;
+    letter-spacing: 1px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 100%;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '';
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px dashed rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_146:after*/
+
+#LI_147 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#LI_147*/
+
+#A_148 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    letter-spacing: 1px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 14.3999996185303px 0px 14.3999996185303px 5px;
+}/*#A_148*/
+
+#A_148:after {
+    bottom: -1px;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: 1px;
+    left: 0px;
+    letter-spacing: 1px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 100%;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    content: '';
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px dashed rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_148:after*/
+
+#LI_149 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 30.5px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 171px;
+    perspective-origin: 85.5px 15.25px;
+    transform-origin: 85.5px 15.25px;
+    background: rgb(240, 240, 240) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 5px solid rgb(102, 51, 102);
+    border-right: 0px none rgb(102, 51, 102);
+    border-bottom: 0px none rgb(102, 51, 102);
+    border-left: 0px none rgb(102, 51, 102);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_149*/
+
+#LI_149:after {
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 16px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 6.40000009536743px;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 8px;
+    transform-origin: 0.5px 8px;
+    content: '';
+    background: rgb(91, 94, 95) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_149:after*/
+
+#DIV_151 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px solid rgb(102, 51, 102);
+    border-right: 4px solid rgb(102, 51, 102);
+    border-bottom: 4px solid rgb(102, 51, 102);
+    border-left: 4px solid rgb(102, 51, 102);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#DIV_151*/
+
+#UL_152, #UL_173, #UL_193, #UL_213, #UL_233 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_152, #UL_173, #UL_193, #UL_213, #UL_233*/
+
+#LI_153, #LI_160, #LI_164, #LI_174, #LI_180, #LI_184, #LI_194, #LI_200, #LI_204, #LI_214, #LI_220, #LI_224, #LI_234, #LI_240, #LI_244 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px dashed rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 11.1999998092651px 0px 0px;
+}/*#LI_153, #LI_160, #LI_164, #LI_174, #LI_180, #LI_184, #LI_194, #LI_200, #LI_204, #LI_214, #LI_220, #LI_224, #LI_234, #LI_240, #LI_244*/
+
+#ARTICLE_154, #DIV_159, #ARTICLE_165, #ARTICLE_175, #ARTICLE_181, #ARTICLE_185, #ARTICLE_195, #ARTICLE_201, #ARTICLE_205, #ARTICLE_215, #ARTICLE_221, #ARTICLE_225, #ARTICLE_235, #ARTICLE_241, #ARTICLE_245 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#ARTICLE_154, #DIV_159, #ARTICLE_165, #ARTICLE_175, #ARTICLE_181, #ARTICLE_185, #ARTICLE_195, #ARTICLE_201, #ARTICLE_205, #ARTICLE_215, #ARTICLE_221, #ARTICLE_225, #ARTICLE_235, #ARTICLE_241, #ARTICLE_245*/
+
+#A_155, #A_176, #A_196, #A_216, #A_236 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_155, #A_176, #A_196, #A_216, #A_236*/
+
+#IMG_156, #IMG_177, #IMG_197, #IMG_217, #IMG_237 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    max-width: 100%;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 300px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_156, #IMG_177, #IMG_197, #IMG_217, #IMG_237*/
+
+#H3_157, #H3_178, #H3_198, #H3_218, #H3_238 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 12.8000001907349px/17.9200000762939px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H3_157, #H3_178, #H3_198, #H3_218, #H3_238*/
+
+#A_158, #A_179, #A_199, #A_219, #A_239 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 12.8000001907349px/17.9200000762939px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_158, #A_179, #A_199, #A_219, #A_239*/
+
+#ARTICLE_161 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#ARTICLE_161*/
+
+#H4_162, #H4_166, #H4_182, #H4_186, #H4_202, #H4_206, #H4_222, #H4_226, #H4_242, #H4_246 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12.8000001907349px/17.9200000762939px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H4_162, #H4_166, #H4_182, #H4_186, #H4_202, #H4_206, #H4_222, #H4_226, #H4_242, #H4_246*/
+
+#A_163, #A_167, #A_183, #A_203, #A_223, #A_243 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12.8000001907349px/17.9200000762939px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_163, #A_167, #A_183, #A_203, #A_223, #A_243*/
+
+#LI_168, #LI_188, #LI_208, #LI_228, #LI_248 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_168, #LI_188, #LI_208, #LI_228, #LI_248*/
+
+#A_169 {
+    box-sizing: border-box;
+    color: rgb(102, 51, 102);
+    display: block;
+    letter-spacing: 1px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(102, 51, 102);
+    font: normal normal bold normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(102, 51, 102) none 0px;
+    padding: 13px 0px;
+}/*#A_169*/
+
+#LI_170 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 30.5px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 171px;
+    perspective-origin: 85.5px 15.25px;
+    transform-origin: 85.5px 15.25px;
+    background: rgb(240, 240, 240) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 5px solid rgb(120, 170, 66);
+    border-right: 0px none rgb(120, 170, 66);
+    border-bottom: 0px none rgb(120, 170, 66);
+    border-left: 0px none rgb(120, 170, 66);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_170*/
+
+#LI_170:after {
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 16px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 6.40000009536743px;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 8px;
+    transform-origin: 0.5px 8px;
+    content: '';
+    background: rgb(91, 94, 95) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_170:after*/
+
+#DIV_172 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px solid rgb(120, 170, 66);
+    border-right: 4px solid rgb(120, 170, 66);
+    border-bottom: 4px solid rgb(120, 170, 66);
+    border-left: 4px solid rgb(120, 170, 66);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#DIV_172*/
+
+#A_187, #A_207, #A_227, #A_247 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12.8000001907349px/17.9200000762939px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_187, #A_207, #A_227, #A_247*/
+
+#A_189 {
+    box-sizing: border-box;
+    color: rgb(120, 170, 66);
+    display: block;
+    letter-spacing: 1px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(120, 170, 66);
+    font: normal normal bold normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(120, 170, 66) none 0px;
+    padding: 13px 0px;
+}/*#A_189*/
+
+#LI_190 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 30.5px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 171px;
+    perspective-origin: 85.5px 15.25px;
+    transform-origin: 85.5px 15.25px;
+    background: rgb(240, 240, 240) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 5px solid rgb(2, 91, 148);
+    border-right: 0px none rgb(2, 91, 148);
+    border-bottom: 0px none rgb(2, 91, 148);
+    border-left: 0px none rgb(2, 91, 148);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_190*/
+
+#LI_190:after {
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 16px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 6.40000009536743px;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 8px;
+    transform-origin: 0.5px 8px;
+    content: '';
+    background: rgb(91, 94, 95) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_190:after*/
+
+#DIV_192 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px solid rgb(2, 91, 148);
+    border-right: 4px solid rgb(2, 91, 148);
+    border-bottom: 4px solid rgb(2, 91, 148);
+    border-left: 4px solid rgb(2, 91, 148);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#DIV_192*/
+
+#A_209 {
+    box-sizing: border-box;
+    color: rgb(2, 91, 148);
+    display: block;
+    letter-spacing: 1px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(2, 91, 148);
+    font: normal normal bold normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(2, 91, 148) none 0px;
+    padding: 13px 0px;
+}/*#A_209*/
+
+#LI_210 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 30.5px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 170px;
+    perspective-origin: 85px 15.25px;
+    transform-origin: 85px 15.25px;
+    background: rgb(240, 240, 240) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 5px solid rgb(242, 177, 17);
+    border-right: 0px none rgb(242, 177, 17);
+    border-bottom: 0px none rgb(242, 177, 17);
+    border-left: 0px none rgb(242, 177, 17);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_210*/
+
+#LI_210:after {
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 16px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 6.40000009536743px;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 8px;
+    transform-origin: 0.5px 8px;
+    content: '';
+    background: rgb(91, 94, 95) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_210:after*/
+
+#A_211, #A_231 {
+    box-sizing: border-box;
+    color: rgb(91, 94, 95);
+    display: block;
+    height: 25.5px;
+    letter-spacing: 1px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 170px;
+    perspective-origin: 85px 12.75px;
+    transform-origin: 85px 12.75px;
+    border: 0px none rgb(91, 94, 95);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(91, 94, 95) none 0px;
+    padding: 5.75999975204468px 14.3999996185303px;
+}/*#A_211, #A_231*/
+
+#DIV_212 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px solid rgb(242, 177, 17);
+    border-right: 4px solid rgb(242, 177, 17);
+    border-bottom: 4px solid rgb(242, 177, 17);
+    border-left: 4px solid rgb(242, 177, 17);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#DIV_212*/
+
+#A_229 {
+    box-sizing: border-box;
+    color: rgb(242, 177, 17);
+    display: block;
+    letter-spacing: 1px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(242, 177, 17);
+    font: normal normal bold normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(242, 177, 17) none 0px;
+    padding: 13px 0px;
+}/*#A_229*/
+
+#LI_230 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 30.5px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 170px;
+    perspective-origin: 85px 15.25px;
+    transform-origin: 85px 15.25px;
+    background: rgb(240, 240, 240) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 5px solid rgb(196, 56, 13);
+    border-right: 0px none rgb(196, 56, 13);
+    border-bottom: 0px none rgb(196, 56, 13);
+    border-left: 0px none rgb(196, 56, 13);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_230*/
+
+#LI_230:after {
+    color: rgb(34, 34, 34);
+    display: none;
+    height: 30.5px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 6.40000009536743px;
+    width: 170px;
+    align-self: stretch;
+    perspective-origin: 85px 15.25px;
+    transform-origin: 85px 15.25px;
+    content: '';
+    background: rgb(91, 94, 95) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_230:after*/
+
+#DIV_232 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    left: 0px;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    z-index: 999;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px solid rgb(196, 56, 13);
+    border-right: 4px solid rgb(196, 56, 13);
+    border-bottom: 4px solid rgb(196, 56, 13);
+    border-left: 4px solid rgb(196, 56, 13);
+    font: normal normal normal normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 11.1999998092651px;
+}/*#DIV_232*/
+
+#A_249 {
+    box-sizing: border-box;
+    color: rgb(196, 56, 13);
+    display: block;
+    letter-spacing: 1px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(196, 56, 13);
+    font: normal normal bold normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(196, 56, 13) none 0px;
+    padding: 13px 0px;
+}/*#A_249*/
+
+#DIV_250 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 7020px;
+    transform-origin: 512px 7020px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_250*/
+
+#DIV_250:after {
+    clear: both;
+    color: rgb(34, 34, 34);
+    display: table;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_250:after*/
+
+#DIV_250:before {
+    color: rgb(34, 34, 34);
+    display: table;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: ' ';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_250:before*/
+
+#DIV_251 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 576px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 288px;
+    transform-origin: 512px 288px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: -5px 0px 40px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_251*/
+
+#DIV_252 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_252*/
+
+#IMG_253 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: 610px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_253*/
+
+#DIV_254 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 576px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 288px;
+    transform-origin: 512px 288px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_254*/
+
+#IMG_255 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 576px;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 288px;
+    transform-origin: 512px 288px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_255*/
+
+#DIV_256 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 576px;
+    left: 0px;
+    max-width: 125px;
+    min-width: 100px;
+    opacity: 0;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 125px;
+    z-index: 0;
+    backface-visibility: hidden;
+    align-self: stretch;
+    perspective-origin: 62.5px 288px;
+    transform-origin: 62.5px 288px;
+    background: rgba(0, 0, 0, 0.701961) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 6.5px 10.3999996185303px;
+    transition: opacity 0.2s ease 0s;
+}/*#DIV_256*/
+
+#P_257 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 64px;
+    text-rendering: optimizelegibility;
+    width: 104.21875px;
+    perspective-origin: 52.109375px 32px;
+    transform-origin: 52.109375px 32px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_257*/
+
+#P_258 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 11px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 104.21875px;
+    word-break: break-word;
+    perspective-origin: 52.109375px 5.5px;
+    transform-origin: 52.109375px 5.5px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 8px/11px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_258*/
+
+#DIV_259 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px solid rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: -15px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 0px 5px;
+}/*#DIV_259*/
+
+#H2_260 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(242, 177, 17) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 5px;
+}/*#H2_260*/
+
+#A_261 {
+    box-sizing: border-box;
+    color: rgb(254, 254, 254);
+    display: block;
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(254, 254, 254);
+    font: normal normal bold normal 16px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(254, 254, 254) none 0px;
+}/*#A_261*/
+
+#DIV_262 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    left: 0px;
+    position: fixed;
+    text-rendering: optimizelegibility;
+    top: 204px;
+    width: 1440px;
+    z-index: 99;
+    perspective-origin: 720px 0px;
+    transform-origin: 720px 0px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: -37px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_262*/
+
+#DIV_263 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 75px;
+    left: 0px;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 50px;
+    align-self: stretch;
+    perspective-origin: 25px 37.5px;
+    transform-origin: 25px 37.5px;
+    background: rgb(226, 226, 224) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_263*/
+
+#A_264, #A_271 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 75px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 50px;
+    perspective-origin: 25px 37.5px;
+    transform-origin: 25px 37.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/75px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_264, #A_271*/
+
+#SPAN_265 {
+    background-position: 0px -188px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: pointer;
+    display: inline-block;
+    height: 60px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    vertical-align: middle;
+    width: 24px;
+    perspective-origin: 12px 30px;
+    transform-origin: 12px 30px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/src-sprites-retina-s4b86ec57fa.png) no-repeat scroll 0px -188px / 186px padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/75px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_265*/
+
+#DIV_266 {
+    box-shadow: rgba(0, 0, 0, 0.298039) 0px 0px 5px 0px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 75px;
+    left: -150px;
+    min-height: 75px;
+    opacity: 0;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 149px;
+    z-index: -1;
+    align-self: stretch;
+    perspective-origin: 74.5px 37.5px;
+    transform-origin: 74.5px 37.5px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(34, 34, 34);
+    font: normal normal normal normal 11.1999998092651px/11.1999998092651px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 9px;
+    transition: all 0.2s ease 0s;
+}/*#DIV_266*/
+
+#A_267 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 42px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 129px;
+    perspective-origin: 64.5px 21px;
+    transform-origin: 64.5px 21px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 11.1999998092651px/11.1999998092651px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_267*/
+
+#SPAN_268, #SPAN_275 {
+    box-sizing: border-box;
+    color: rgb(242, 177, 17);
+    letter-spacing: 1px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border: 0px none rgb(242, 177, 17);
+    font: normal normal normal normal 9px/9px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(242, 177, 17) none 0px;
+}/*#SPAN_268, #SPAN_275*/
+
+#H4_269 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 26px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 129px;
+    perspective-origin: 64.5px 13px;
+    transform-origin: 64.5px 13px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 11.1999998092651px/13.4399995803833px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 5px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H4_269*/
+
+#DIV_270 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 75px;
+    position: absolute;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 50px;
+    align-self: stretch;
+    perspective-origin: 25px 37.5px;
+    transform-origin: 25px 37.5px;
+    background: rgb(226, 226, 224) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_270*/
+
+#SPAN_272 {
+    background-position: 0px -348px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: pointer;
+    display: inline-block;
+    height: 60px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    vertical-align: middle;
+    width: 24px;
+    perspective-origin: 12px 30px;
+    transform-origin: 12px 30px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/src-sprites-retina-s4b86ec57fa.png) no-repeat scroll 0px -348px / 186px padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/75px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_272*/
+
+#DIV_273 {
+    box-shadow: rgba(0, 0, 0, 0.298039) 0px 0px 5px 0px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 75px;
+    min-height: 75px;
+    opacity: 0;
+    position: absolute;
+    right: -150px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 149px;
+    z-index: -1;
+    align-self: stretch;
+    perspective-origin: 74.5px 37.5px;
+    transform-origin: 74.5px 37.5px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 1px solid rgb(34, 34, 34);
+    font: normal normal normal normal 11.1999998092651px/11.1999998092651px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 9px;
+    transition: all 0.2s ease 0s;
+}/*#DIV_273*/
+
+#A_274 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 55px;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 129px;
+    perspective-origin: 64.5px 27.5px;
+    transform-origin: 64.5px 27.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 11.1999998092651px/11.1999998092651px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_274*/
+
+#H4_276 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 39px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 129px;
+    perspective-origin: 64.5px 19.5px;
+    transform-origin: 64.5px 19.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 11.1999998092651px/13.4399995803833px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 5px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H4_276*/
+
+#DIV_277 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 6714.5px;
+    transform-origin: 512px 6714.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_277*/
+
+#DIV_278 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 6714.4375px;
+    transform-origin: 512px 6714.4375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_278*/
+
+#DIV_278:after {
+    clear: both;
+    color: rgb(34, 34, 34);
+    display: table;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_278:after*/
+
+#DIV_279 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 45px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 22.5px;
+    transform-origin: 512px 22.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_279*/
+
+#DIV_280 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 35px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1004px;
+    perspective-origin: 502px 17.5px;
+    transform-origin: 502px 17.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 20px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_280*/
+
+#DIV_281, #DIV_283 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 35px;
+    text-rendering: optimizelegibility;
+    width: 1004px;
+    perspective-origin: 502px 17.5px;
+    transform-origin: 502px 17.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_281, #DIV_283*/
+
+#DIV_282 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 35px;
+    text-rendering: optimizelegibility;
+    width: 1004px;
+    perspective-origin: 502px 17.5px;
+    transform-origin: 502px 17.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_282*/
+
+#DIV_284 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 35px;
+    text-rendering: optimizelegibility;
+    width: 1004px;
+    perspective-origin: 502px 17.5px;
+    transform-origin: 502px 17.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_284*/
+
+#UL_285 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 35px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1004px;
+    perspective-origin: 502px 17.5px;
+    transform-origin: 502px 17.5px;
+    background: rgba(255, 255, 255, 0.701961) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_285*/
+
+#LI_286, #LI_289, #LI_293 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 30px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 30px;
+    perspective-origin: 15px 15px;
+    transform-origin: 15px 15px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 5px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_286, #LI_289, #LI_293*/
+
+#A_287 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: block;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 30px;
+    perspective-origin: 15px 15px;
+    transform-origin: 15px 15px;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_287*/
+
+#A_287:after {
+    color: rgb(128, 130, 133);
+    text-align: center;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/30px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_287:after*/
+
+#SPAN_288, #SPAN_291, #SPAN_295 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: none;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#SPAN_288, #SPAN_291, #SPAN_295*/
+
+#A_290 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: block;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 30px;
+    perspective-origin: 15px 15px;
+    transform-origin: 15px 15px;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_290*/
+
+#A_290:after {
+    color: rgb(128, 130, 133);
+    text-align: center;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/30px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_290:after*/
+
+#SPAN_292, #SPAN_296 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: none;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#SPAN_292, #SPAN_296*/
+
+#A_294 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    display: block;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 30px;
+    perspective-origin: 15px 15px;
+    transform-origin: 15px 15px;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/16px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_294*/
+
+#A_294:after {
+    color: rgb(128, 130, 133);
+    text-align: center;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal normal normal 16px/30px fte-icons;
+    list-style: none outside none;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_294:after*/
+
+#LI_297 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 0px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    perspective-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px 5px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_297*/
+
+#DIV_298 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: right;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 6686.9375px;
+    transform-origin: 512px 6686.9375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_298*/
+
+#ARTICLE_299 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 6179.34375px;
+    transform-origin: 512px 6179.34375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#ARTICLE_299*/
+
+#ARTICLE_299:after {
+    clear: both;
+    color: rgb(34, 34, 34);
+    display: table;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#ARTICLE_299:after*/
+
+#DIV_300 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 143px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 71.5px;
+    transform-origin: 512px 71.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_300*/
+
+#P_301 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 12px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: -19px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 1006px;
+    perspective-origin: 503px 6px;
+    transform-origin: 503px 6px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 9.60000038146973px/12.4800004959106px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: -2px 0px 10px 18px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_301*/
+
+#A_302 {
+    box-sizing: border-box;
+    color: rgb(128, 130, 133);
+    letter-spacing: 1px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-indent: -19px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal bold normal 9.60000038146973px/12.4800004959106px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_302*/
+
+#A_302:before {
+    color: rgb(128, 130, 133);
+    display: inline-block;
+    height: 9px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: -19px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    vertical-align: -1px;
+    width: 9px;
+    perspective-origin: 4.5px 4.5px;
+    transform-origin: 4.5px 4.5px;
+    content: ' ';
+    background: rgb(242, 177, 17) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(128, 130, 133);
+    font: normal normal bold normal 9.60000038146973px/12.4800004959106px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 9.60000038146973px 0px 0px;
+    outline: rgb(128, 130, 133) none 0px;
+}/*#A_302:before*/
+
+#SPAN_303 {
+    box-sizing: border-box;
+    color: rgb(128, 128, 128);
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: -19px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border-top: 0px none rgb(128, 128, 128);
+    border-right: 0px none rgb(128, 128, 128);
+    border-bottom: 0px none rgb(128, 128, 128);
+    border-left: 1px solid rgb(147, 149, 152);
+    font: normal normal normal normal 10px/12.4800004959106px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 2px;
+    outline: rgb(128, 128, 128) none 0px;
+    padding: 0px 0px 0px 6px;
+}/*#SPAN_303*/
+
+#SPAN_304 {
+    box-sizing: border-box;
+    color: rgb(128, 128, 128);
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: -19px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border-top: 0px none rgb(128, 128, 128);
+    border-right: 0px none rgb(128, 128, 128);
+    border-bottom: 0px none rgb(128, 128, 128);
+    border-left: 1px solid rgb(147, 149, 152);
+    font: normal normal normal normal 10px/12.4800004959106px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 3px;
+    outline: rgb(128, 128, 128) none 0px;
+    padding: 0px 0px 0px 6px;
+}/*#SPAN_304*/
+
+#H1_305 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 84px;
+    max-width: 100%;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 800px;
+    perspective-origin: 400px 42px;
+    transform-origin: 400px 42px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 40px/42px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 112px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H1_305*/
+
+#A_306 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 40px/42px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_306*/
+
+#P_307 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 17px;
+    letter-spacing: 0.431999981403351px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 8.5px;
+    transform-origin: 512px 8.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 14.3999996185303px/17.2799987792969px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 20px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_307*/
+
+#A_308 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    letter-spacing: 0.431999981403351px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 14.3999996185303px/17.2799987792969px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_308*/
+
+#DIV_309 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 6046.75px;
+    transform-origin: 287.5px 6046.75px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 224.5px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_309*/
+
+p {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 78px;
+    transform-origin: 287.5px 78px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_310, #P_320, #P_340, #P_345, #P_405, #P_418, #P_422*/
+
+#SPAN_311, #SPAN_430 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    float: left;
+    height: 65.4375px;
+    text-rendering: optimizelegibility;
+    width: 32.921875px;
+    perspective-origin: 16.453125px 32.71875px;
+    transform-origin: 16.453125px 32.71875px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 93.5px/84.1500015258789px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 35.5px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_311, #SPAN_430*/
+
+#P_312, #P_353, #P_365, #P_388, #P_407, #P_416 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 182px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 91px;
+    transform-origin: 287.5px 91px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_312, #P_353, #P_365, #P_388, #P_407, #P_416*/
+
+#A_313, #A_314, #A_317, #A_319, #A_343, #A_352, #A_355, #A_357, #A_359, #A_362, #A_364, #A_367, #A_369, #A_371, #A_374, #A_382, #A_389, #A_404, #A_409, #A_417, #A_420 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_313, #A_314, #A_317, #A_319, #A_343, #A_352, #A_355, #A_357, #A_359, #A_362, #A_364, #A_367, #A_369, #A_371, #A_374, #A_382, #A_389, #A_404, #A_409, #A_417, #A_420*/
+
+#P_315, #P_316, #P_328, #P_351, #P_358, #P_401, #P_403 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 130px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 65px;
+    transform-origin: 287.5px 65px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_315, #P_316, #P_328, #P_351, #P_358, #P_401, #P_403*/
+
+#A_318, #A_321, #A_354, #A_363, #A_370, #A_383, #A_421 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_318, #A_321, #A_354, #A_363, #A_370, #A_383, #A_421*/
+
+#SUP_322, #SUP_344, #SUP_384 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 13.6000003814697px/0px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#SUP_322, #SUP_344, #SUP_384*/
+
+#P_323 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 565px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 282.5px;
+    transform-origin: 287.5px 282.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_323*/
+
+#IMG_324 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 556px;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 278px;
+    transform-origin: 287.5px 278px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_324*/
+
+#P_325, #P_377 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 26px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 13px;
+    transform-origin: 287.5px 13px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_325, #P_377*/
+
+#P_326 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 545px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 272.5px;
+    transform-origin: 287.5px 272.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_326*/
+
+#IMG_327 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 536px;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 268px;
+    transform-origin: 287.5px 268px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_327*/
+
+#P_329, #P_330, #P_332 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 52px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 26px;
+    transform-origin: 287.5px 26px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_329, #P_330, #P_332*/
+
+#P_331 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 52px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 26px;
+    transform-origin: 287.5px 26px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_331*/
+
+#P_333, #P_410, #P_435 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 78px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 39px;
+    transform-origin: 287.5px 39px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_333, #P_410, #P_435*/
+
+#P_334, #P_339, #P_390, #P_395, #P_423, #P_428 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 0px;
+    transform-origin: 287.5px 0px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_334, #P_339, #P_390, #P_395, #P_423, #P_428*/
+
+#SPAN_335, #SPAN_391, #SPAN_424 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_335, #SPAN_391, #SPAN_424*/
+
+#DIV_336, #DIV_392, #DIV_425 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 36.5px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 18.25px;
+    transform-origin: 287.5px 18.25px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_336, #DIV_392, #DIV_425*/
+
+#HR_337, #HR_393, #HR_426 {
+    box-sizing: border-box;
+    color: rgb(209, 211, 212);
+    height: 1px;
+    position: relative;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    top: 8px;
+    width: 575px;
+    perspective-origin: 287.5px 0.5px;
+    transform-origin: 287.5px 0.5px;
+    background: rgb(209, 211, 212) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 1px solid rgb(196, 197, 196);
+    border-right: 0px none rgb(209, 211, 212);
+    border-bottom: 0px none rgb(209, 211, 212);
+    border-left: 0px none rgb(209, 211, 212);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 8.5px 0px;
+    outline: rgb(209, 211, 212) none 0px;
+}/*#HR_337, #HR_393, #HR_426*/
+
+#SPAN_338, #SPAN_394, #SPAN_427 {
+    background-position: 50% 0px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 18px;
+    position: relative;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    top: -10px;
+    width: 31px;
+    perspective-origin: 15.5px 9px;
+    transform-origin: 15.5px 9px;
+    background: rgb(254, 254, 254) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/fox-rule@2x.png) no-repeat scroll 50% 0px / 31px 18px padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_338, #SPAN_394, #SPAN_427*/
+
+#SPAN_341, #SPAN_402 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    float: left;
+    height: 65.4375px;
+    text-rendering: optimizelegibility;
+    width: 60.59375px;
+    perspective-origin: 30.296875px 32.71875px;
+    transform-origin: 30.296875px 32.71875px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 93.5px/84.1500015258789px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 9.35000038146973px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_341, #SPAN_402*/
+
+#P_342, #P_368 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 260px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 130px;
+    transform-origin: 287.5px 130px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_342, #P_368*/
+
+#FIGURE_346, #FIGURE_411 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 682px;
+    left: -225px;
+    max-width: 100%;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 341px;
+    transform-origin: 287.5px 341px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/0px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 20px 0px 40px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#FIGURE_346, #FIGURE_411*/
+
+#IMG_347, #IMG_412 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 682px;
+    left: 0px;
+    max-width: 1024px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    z-index: -1;
+    perspective-origin: 512px 341px;
+    transform-origin: 512px 341px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/0px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_347, #IMG_412*/
+
+#FIGCAPTION_348, #FIGCAPTION_413 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 682px;
+    left: 0px;
+    min-width: 100px;
+    opacity: 0;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 143.75px;
+    z-index: -1;
+    backface-visibility: hidden;
+    align-self: stretch;
+    perspective-origin: 71.875px 341px;
+    transform-origin: 71.875px 341px;
+    background: rgba(0, 0, 0, 0.701961) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 6.5px 10.3999996185303px;
+    transition: opacity 0.2s ease 0s;
+}/*#FIGCAPTION_348, #FIGCAPTION_413*/
+
+#P_349 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 80px;
+    text-rendering: optimizelegibility;
+    width: 122.96875px;
+    perspective-origin: 61.484375px 40px;
+    transform-origin: 61.484375px 40px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 13px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_349*/
+
+#P_350, #P_400 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 11px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 122.96875px;
+    word-break: break-word;
+    perspective-origin: 61.484375px 5.5px;
+    transform-origin: 61.484375px 5.5px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 8px/11px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_350, #P_400*/
+
+#P_356, #P_373, #P_381 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 104px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 52px;
+    transform-origin: 287.5px 52px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_356, #P_373, #P_381*/
+
+#P_360 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 168px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 300px;
+    z-index: 2;
+    perspective-origin: 150px 84px;
+    transform-origin: 150px 84px;
+    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 22px/28px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 40px 40px 22px -65px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_360*/
+
+#P_361, #P_429 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 338px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 169px;
+    transform-origin: 287.5px 169px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_361, #P_429*/
+
+#P_366 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 312px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 156px;
+    transform-origin: 287.5px 156px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_366*/
+
+#A_372 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_372*/
+
+#BLOCKQUOTE_375, #BLOCKQUOTE_378, #BLOCKQUOTE_385 {
+    box-sizing: border-box;
+    color: rgb(109, 111, 113);
+    height: 156px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 78px;
+    transform-origin: 287.5px 78px;
+    border: 0px none rgb(109, 111, 113);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px;
+    outline: rgb(109, 111, 113) none 0px;
+    padding: 0px 25px;
+}/*#BLOCKQUOTE_375, #BLOCKQUOTE_378, #BLOCKQUOTE_385*/
+
+#P_376, #P_379, #P_386 {
+    box-sizing: border-box;
+    color: rgb(109, 111, 113);
+    height: 156px;
+    text-rendering: optimizelegibility;
+    width: 525px;
+    perspective-origin: 262.5px 78px;
+    transform-origin: 262.5px 78px;
+    border: 0px none rgb(109, 111, 113);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(109, 111, 113) none 0px;
+}/*#P_376, #P_379, #P_386*/
+
+#P_380, #P_406, #P_431, #P_433 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 208px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 104px;
+    transform-origin: 287.5px 104px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_380, #P_406, #P_431, #P_433*/
+
+#P_387, #P_432 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 234px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 117px;
+    transform-origin: 287.5px 117px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_387, #P_432*/
+
+#FIGURE_396 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 576px;
+    left: -225px;
+    max-width: 100%;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 288px;
+    transform-origin: 287.5px 288px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/0px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 20px 0px 40px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#FIGURE_396*/
+
+#IMG_397 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 576px;
+    left: 0px;
+    max-width: 1024px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    z-index: -1;
+    perspective-origin: 512px 288px;
+    transform-origin: 512px 288px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/0px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_397*/
+
+#FIGCAPTION_398 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 576px;
+    left: 0px;
+    min-width: 100px;
+    opacity: 0;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 143.75px;
+    z-index: -1;
+    backface-visibility: hidden;
+    align-self: stretch;
+    perspective-origin: 71.875px 288px;
+    transform-origin: 71.875px 288px;
+    background: rgba(0, 0, 0, 0.701961) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 6.5px 10.3999996185303px;
+    transition: opacity 0.2s ease 0s;
+}/*#FIGCAPTION_398*/
+
+#P_399 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 48px;
+    text-rendering: optimizelegibility;
+    width: 122.96875px;
+    perspective-origin: 61.484375px 24px;
+    transform-origin: 61.484375px 24px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 13px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_399*/
+
+#P_408 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 208px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 104px;
+    transform-origin: 287.5px 104px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_408*/
+
+#P_414 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 32px;
+    text-rendering: optimizelegibility;
+    width: 122.96875px;
+    perspective-origin: 61.484375px 16px;
+    transform-origin: 61.484375px 16px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 13px/16px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 13px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_414*/
+
+#P_415 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 33px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 122.96875px;
+    word-break: break-word;
+    perspective-origin: 61.484375px 16.5px;
+    transform-origin: 61.484375px 16.5px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 8px/11px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_415*/
+
+#P_419 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 286px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 143px;
+    transform-origin: 287.5px 143px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_419*/
+
+#P_434 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 234px;
+    text-rendering: optimizelegibility;
+    width: 575px;
+    perspective-origin: 287.5px 117px;
+    transform-origin: 287.5px 117px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 17px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_434*/
+
+#STRONG_436 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 17px/26px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#STRONG_436*/
+
+#DIV_437, #DIV_473 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 29.1875px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 14.59375px;
+    transform-origin: 512px 14.59375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 20px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_437, #DIV_473*/
+
+#H3_438, #H3_474 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: pointer;
+    height: 29.1875px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 1024px;
+    perspective-origin: 512px 14.59375px;
+    transform-origin: 512px 14.59375px;
+    border-top: 2px solid rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 0px none rgb(34, 34, 34);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+    overflow: hidden;
+    padding: 7.19999980926514px 0px 0px;
+}/*#H3_438, #H3_474*/
+
+#SPAN_439, #SPAN_476 {
+    background-position: 0px -676px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: pointer;
+    display: block;
+    float: right;
+    height: 20px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 20px;
+    perspective-origin: 10px 10px;
+    transform-origin: 10px 10px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/src-sprites-retina-s4b86ec57fa.png) no-repeat scroll 0px -676px / 186px padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_439, #SPAN_476*/
+
+#DIV_440 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 3px solid rgb(34, 34, 34);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 25.2000007629395px;
+}/*#DIV_440*/
+
+#OL_441 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 24px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 12px 0px;
+}/*#OL_441*/
+
+#LI_442, #LI_445, #LI_448 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: decimal outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_442, #LI_445, #LI_448*/
+
+#SPAN_443, #SPAN_446, #SPAN_449 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: left;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: decimal outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_443, #SPAN_446, #SPAN_449*/
+
+#A_444, #A_447 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: decimal outside none;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_444, #A_447*/
+
+#A_450 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: decimal outside none;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_450*/
+
+#P_451 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    height: 16px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 1024px;
+    perspective-origin: 512px 8px;
+    transform-origin: 512px 8px;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 10px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 20px;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#P_451*/
+
+#A_452, #A_453, #A_455, #A_457 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 10px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_452, #A_453, #A_455, #A_457*/
+
+#A_454, #A_456 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 10px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_454, #A_456*/
+
+#A_458 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 10px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_458*/
+
+#DIV_459 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 140px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 70px;
+    transform-origin: 512px 70px;
+    border-top: 1px solid rgb(209, 211, 212);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px solid rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 18px;
+    outline: rgb(34, 34, 34) none 0px;
+    overflow: hidden;
+    padding: 16px 0px 8px;
+}/*#DIV_459*/
+
+#DIV_460 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 104px;
+    max-width: 100px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 100px;
+    perspective-origin: 50px 52px;
+    transform-origin: 50px 52px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 20px 10px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_460*/
+
+#A_461 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    height: 104px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 100px;
+    perspective-origin: 50px 52px;
+    transform-origin: 50px 52px;
+    border-top: 0px none rgb(0, 143, 213);
+    border-right: 0px none rgb(0, 143, 213);
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    border-left: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_461*/
+
+#IMG_462 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    height: 100px;
+    max-width: 100px;
+    text-rendering: optimizelegibility;
+    width: 100px;
+    perspective-origin: 50px 50px;
+    transform-origin: 50px 50px;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#IMG_462*/
+
+#DIV_463 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 43px;
+    text-rendering: optimizelegibility;
+    width: 904px;
+    perspective-origin: 452px 21.5px;
+    transform-origin: 452px 21.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 120px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_463*/
+
+#H3_464 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 13px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 904px;
+    perspective-origin: 452px 6.5px;
+    transform-origin: 452px 6.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H3_464*/
+
+#A_465 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    height: 13px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 99.5px;
+    perspective-origin: 49.75px 6.5px;
+    transform-origin: 49.75px 6.5px;
+    border-top: 0px none rgb(0, 143, 213);
+    border-right: 0px none rgb(0, 143, 213);
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    border-left: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_465*/
+
+#SPAN_466, #SPAN_469 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: lowercase;
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 0px none rgb(34, 34, 34);
+    border-left: 1px solid rgb(209, 211, 212);
+    font: normal normal normal normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 6px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 0px 0px 10px;
+}/*#SPAN_466, #SPAN_469*/
+
+#A_467 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    height: 13px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: lowercase;
+    width: 113.234375px;
+    perspective-origin: 56.609375px 6.5px;
+    transform-origin: 56.609375px 6.5px;
+    border-top: 0px none rgb(0, 143, 213);
+    border-right: 0px none rgb(0, 143, 213);
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    border-left: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_467*/
+
+#I_468 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    letter-spacing: 1px;
+    speak: none;
+    text-rendering: optimizelegibility;
+    vertical-align: middle;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px fte-icons;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#I_468*/
+
+#I_468:before {
+    color: rgb(0, 143, 213);
+    letter-spacing: 1px;
+    speak: none;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px fte-icons;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#I_468:before*/
+
+#A_470 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    height: 13px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: lowercase;
+    width: 13px;
+    perspective-origin: 6.5px 6.5px;
+    transform-origin: 6.5px 6.5px;
+    border-top: 0px none rgb(0, 143, 213);
+    border-right: 0px none rgb(0, 143, 213);
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    border-left: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#A_470*/
+
+#I_471 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    letter-spacing: 1px;
+    speak: none;
+    text-rendering: optimizelegibility;
+    vertical-align: middle;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px fte-icons;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#I_471*/
+
+#I_471:before {
+    color: rgb(0, 143, 213);
+    letter-spacing: 1px;
+    speak: none;
+    text-rendering: optimizelegibility;
+    content: '';
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 12px/12px fte-icons;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#I_471:before*/
+
+#P_472 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 20px;
+    text-rendering: optimizelegibility;
+    width: 904px;
+    perspective-origin: 452px 10px;
+    transform-origin: 452px 10px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#P_472*/
+
+#SPAN_475 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    cursor: pointer;
+    text-rendering: optimizelegibility;
+    text-transform: capitalize;
+    border-top: 0px none rgb(0, 143, 213);
+    border-right: 0px none rgb(0, 143, 213);
+    border-bottom: 1px dotted rgb(0, 143, 213);
+    border-left: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 0px 10px;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#SPAN_475*/
+
+#DIV_477 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgb(241, 242, 242) none repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 3px solid rgb(34, 34, 34);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 12px;
+}/*#DIV_477*/
+
+#DIV_478 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: auto;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 12px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_478*/
+
+#SPAN_479 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 825px;
+    position: relative;
+    text-align: justify;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_479*/
+
+#IFRAME_480 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 825px;
+    max-width: 100%;
+    position: absolute;
+    text-align: justify;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    align-self: stretch;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 12px/20px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    overflow: hidden;
+}/*#IFRAME_480*/
+
+#DIV_481 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 258px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 129px;
+    transform-origin: 512px 129px;
+    border: 5px solid rgb(242, 177, 17);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 40px 0px 20px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_481*/
+
+#UL_482 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table;
+    height: 36px;
+    text-rendering: optimizelegibility;
+    width: 1014px;
+    perspective-origin: 507px 18px;
+    transform-origin: 507px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_482*/
+
+#LI_483 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: pointer;
+    display: table-cell;
+    height: 36px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1014px;
+    perspective-origin: 507px 18px;
+    transform-origin: 507px 18px;
+    background: rgb(254, 254, 254) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 16px;
+}/*#LI_483*/
+
+#A_484 {
+    box-sizing: border-box;
+    color: rgb(242, 177, 17);
+    display: inline-block;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    vertical-align: middle;
+    width: 60.125px;
+    perspective-origin: 30.0625px 18px;
+    transform-origin: 30.0625px 18px;
+    border: 0px none rgb(242, 177, 17);
+    font: normal normal bold normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(242, 177, 17) none 0px;
+    padding: 12px 0px;
+}/*#A_484*/
+
+#DIV_485 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 212px;
+    text-rendering: optimizelegibility;
+    width: 1014px;
+    perspective-origin: 507px 106px;
+    transform-origin: 507px 106px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_485*/
+
+#DIV_486 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 212px;
+    text-rendering: optimizelegibility;
+    width: 1014px;
+    perspective-origin: 507px 106px;
+    transform-origin: 507px 106px;
+    border: 0px none rgb(242, 177, 17);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 16px;
+}/*#DIV_486*/
+
+#DIV_487, #DIV_491, #DIV_495, #DIV_499 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 31px;
+    text-rendering: optimizelegibility;
+    width: 982px;
+    perspective-origin: 491px 15.5px;
+    transform-origin: 491px 15.5px;
+    border-top: 0px none rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 1px dashed rgb(209, 211, 212);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_487, #DIV_491, #DIV_495, #DIV_499*/
+
+#DIV_487:after, #DIV_491:after, #DIV_495:after, #DIV_499:after {
+    clear: both;
+    color: rgb(34, 34, 34);
+    display: table;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_487:after, #DIV_491:after, #DIV_495:after, #DIV_499:after*/
+
+#H3_488, #H3_492, #H3_496, #H3_500 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 20px;
+    text-rendering: optimizelegibility;
+    width: 982px;
+    perspective-origin: 491px 10px;
+    transform-origin: 491px 10px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/19.2000007629395px ArnhemPro, Georgia, 'Times New Roman', serif;
+    margin: 0px 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#H3_488, #H3_492, #H3_496, #H3_500*/
+
+#A_489, #A_493, #A_497, #A_501 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/19.2000007629395px ArnhemPro, Georgia, 'Times New Roman', serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_489, #A_493, #A_497, #A_501*/
+
+#SPAN_490, #SPAN_494, #SPAN_502 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 10px/19.2000007629395px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#SPAN_490, #SPAN_494, #SPAN_502*/
+
+#SPAN_498 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    white-space: nowrap;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal normal normal 10px/19.2000007629395px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#SPAN_498*/
+
+#A_503 {
+    box-sizing: border-box;
+    color: rgb(242, 177, 17);
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    border: 0px none rgb(242, 177, 17);
+    font: normal normal bold normal 12px/12px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(242, 177, 17) none 0px;
+}/*#A_503*/
+
+#DIV_504, #DIV_650 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_504, #DIV_650*/
+
+#IFRAME_505 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: 1px;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IFRAME_505*/
+
+#SCRIPT_507, #SCRIPT_509, #STYLE_514, #STYLE_556, #SCRIPT_642, #SCRIPT_646, #SCRIPT_652, #SCRIPT_656, #SCRIPT_660 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SCRIPT_507, #SCRIPT_509, #STYLE_514, #STYLE_556, #SCRIPT_642, #SCRIPT_646, #SCRIPT_652, #SCRIPT_656, #SCRIPT_660*/
+
+#DIV_510 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 291px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 145.5px;
+    transform-origin: 512px 145.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_510*/
+
+#DIV_511 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 291px;
+    min-width: 300px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 145.5px;
+    transform-origin: 512px 145.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 25px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_511*/
+
+#SPAN_512, #SPAN_554 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 16px;
+    position: fixed;
+    text-rendering: optimizelegibility;
+    top: -200px;
+    width: 4.359375px;
+    z-index: 0;
+    perspective-origin: 2.171875px 8px;
+    transform-origin: 2.171875px 8px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_512, #SPAN_554*/
+
+#DIV_515 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 256px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 128px;
+    transform-origin: 512px 128px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_515*/
+
+#DIV_516, #DIV_558 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 26px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 1024px;
+    perspective-origin: 512px 13px;
+    transform-origin: 512px 13px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_516, #DIV_558*/
+
+#H2_517, #H2_559 {
+    box-sizing: border-box;
+    color: rgb(254, 254, 254);
+    height: 26px;
+    letter-spacing: 1px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 1024px;
+    perspective-origin: 512px 13px;
+    transform-origin: 512px 13px;
+    background: rgb(34, 34, 34) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(254, 254, 254);
+    font: normal normal bold normal 14.3999996185303px/14.3999996185303px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 20px;
+    outline: rgb(254, 254, 254) none 0px;
+    padding: 7px 0px 5px 10px;
+}/*#H2_517, #H2_559*/
+
+#UL_518 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 210px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 105px;
+    transform-origin: 512px 105px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_518*/
+
+#LI_519 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 191.75px;
+    max-width: 700px;
+    min-width: 50px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    vertical-align: top;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 95.875px;
+    transform-origin: 92.96875px 95.875px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_519*/
+
+#A_520, #A_526, #A_532, #A_538, #A_544 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_520, #A_526, #A_532, #A_538, #A_544*/
+
+#SPAN_521, #SPAN_527, #SPAN_533, #SPAN_539, #SPAN_545 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 148.75px;
+    position: relative;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 74.375px;
+    transform-origin: 92.96875px 74.375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SPAN_521, #SPAN_527, #SPAN_533, #SPAN_539, #SPAN_545*/
+
+#DIV_522, #DIV_528, #DIV_534, #DIV_540, #DIV_546 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 148.75px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 74.375px;
+    transform-origin: 92.96875px 74.375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/0px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 148.75px 0px 0px;
+}/*#DIV_522, #DIV_528, #DIV_534, #DIV_540, #DIV_546*/
+
+#IMG_523, #IMG_529, #IMG_535, #IMG_541, #IMG_547 {
+    bottom: 0px;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 149px;
+    left: 0px;
+    max-width: 100%;
+    position: absolute;
+    right: 0px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 185.953125px;
+    align-self: stretch;
+    perspective-origin: 92.96875px 74.5px;
+    transform-origin: 92.96875px 74.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+    transition: all 0.75s ease 0s;
+}/*#IMG_523, #IMG_529, #IMG_535, #IMG_541, #IMG_547*/
+
+#SPAN_524 {
+    box-sizing: border-box;
+    color: rgb(60, 60, 60);
+    display: block;
+    height: 43px;
+    max-height: 105px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 21.5px;
+    transform-origin: 92.96875px 21.5px;
+    border: 0px none rgb(60, 60, 60);
+    font: normal normal bold normal 14px/19.3199996948242px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(60, 60, 60) none 0px;
+    padding: 5px 0px 0px;
+}/*#SPAN_524*/
+
+#LI_525, #LI_531, #LI_537, #LI_543 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: inline-block;
+    height: 210.75px;
+    max-width: 700px;
+    min-width: 50px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    vertical-align: top;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 105.375px;
+    transform-origin: 92.96875px 105.375px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 0px 0px 23.546875px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_525, #LI_531, #LI_537, #LI_543*/
+
+#SPAN_530, #SPAN_536, #SPAN_548 {
+    box-sizing: border-box;
+    color: rgb(60, 60, 60);
+    display: block;
+    height: 62px;
+    max-height: 105px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 31px;
+    transform-origin: 92.96875px 31px;
+    border: 0px none rgb(60, 60, 60);
+    font: normal normal bold normal 14px/19.3199996948242px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(60, 60, 60) none 0px;
+    padding: 5px 0px 0px;
+}/*#SPAN_530, #SPAN_536, #SPAN_548*/
+
+#SPAN_542 {
+    box-sizing: border-box;
+    color: rgb(60, 60, 60);
+    display: block;
+    height: 62px;
+    max-height: 105px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 185.953125px;
+    perspective-origin: 92.96875px 31px;
+    transform-origin: 92.96875px 31px;
+    border: 0px none rgb(60, 60, 60);
+    font: normal normal bold normal 14px/19.3199996948242px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(60, 60, 60) none 0px;
+    padding: 5px 0px 0px;
+}/*#SPAN_542*/
+
+#DIV_549 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 35px;
+    text-align: right;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 17.5px;
+    transform-origin: 512px 17.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 5px 10px 0px;
+}/*#DIV_549*/
+
+#A_550, #A_597 {
+    box-sizing: border-box;
+    color: rgb(153, 153, 153);
+    text-align: right;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal normal normal 11px/11px arial;
+    outline: rgb(153, 153, 153) none 0px;
+}/*#A_550, #A_597*/
+
+#SPAN_551 {
+    background-position: 50% 0%;
+    color: rgb(153, 153, 153);
+    display: inline-block;
+    height: 12px;
+    text-align: right;
+    text-rendering: optimizelegibility;
+    width: 67px;
+    perspective-origin: 38.5px 6px;
+    transform-origin: 38.5px 6px;
+    background: rgba(0, 0, 0, 0) url(http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png) no-repeat scroll 50% 0% / auto padding-box border-box;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal normal normal 11px/11px arial;
+    margin: 15px -20.078125px 0px 0px;
+    outline: rgb(153, 153, 153) none 0px;
+    padding: 0px 5px;
+}/*#SPAN_551*/
+
+#DIV_552 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 186px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 93px;
+    transform-origin: 512px 93px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_552*/
+
+#DIV_553 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 186px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 93px;
+    transform-origin: 512px 93px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_553*/
+
+#DIV_553:after {
+    clear: both;
+    color: rgb(34, 34, 34);
+    display: block;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 0px;
+    transform-origin: 512px 0px;
+    content: '';
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_553:after*/
+
+#DIV_557 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 150px;
+    text-rendering: optimizelegibility;
+    width: 512px;
+    perspective-origin: 256px 75px;
+    transform-origin: 256px 75px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_557*/
+
+#UL_560 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 96px;
+    text-rendering: optimizelegibility;
+    width: 492px;
+    perspective-origin: 246px 48px;
+    transform-origin: 246px 48px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 10px 0px 0px;
+}/*#UL_560*/
+
+#LI_561, #LI_565, #LI_569, #LI_573, #LI_580, #LI_584, #LI_588, #LI_592 {
+    box-sizing: border-box;
+    color: rgb(60, 60, 60);
+    height: 18px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 472px;
+    perspective-origin: 236px 9px;
+    transform-origin: 236px 9px;
+    border: 0px none rgb(60, 60, 60);
+    font: normal normal normal normal 24px/18px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: square outside none;
+    margin: 0px 0px 8px 10px;
+    outline: rgb(60, 60, 60) none 0px;
+}/*#LI_561, #LI_565, #LI_569, #LI_573, #LI_580, #LI_584, #LI_588, #LI_592*/
+
+#A_562, #A_566, #A_570, #A_574, #A_581, #A_585, #A_589, #A_593 {
+    box-sizing: border-box;
+    color: rgb(60, 60, 60);
+    display: none;
+    orphans: 4321;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    top: -2px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(60, 60, 60);
+    font: normal normal normal normal 24px/18px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: square outside none;
+    outline: rgb(60, 60, 60) none 0px;
+}/*#A_562, #A_566, #A_570, #A_574, #A_581, #A_585, #A_589, #A_593*/
+
+#SPAN_563, #SPAN_567, #SPAN_571, #SPAN_575, #SPAN_582, #SPAN_586, #SPAN_590, #SPAN_594 {
+    box-sizing: border-box;
+    color: rgb(60, 60, 60);
+    orphans: 4321;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(60, 60, 60);
+    font: normal normal bold normal 14px/14px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: square outside none;
+    outline: rgb(60, 60, 60) none 0px;
+}/*#SPAN_563, #SPAN_567, #SPAN_571, #SPAN_575, #SPAN_582, #SPAN_586, #SPAN_590, #SPAN_594*/
+
+#SPAN_564, #SPAN_568, #SPAN_576, #SPAN_583, #SPAN_591 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    orphans: 4321;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 14px/18px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: square outside none;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#SPAN_564, #SPAN_568, #SPAN_576, #SPAN_583, #SPAN_591*/
+
+#SPAN_572, #SPAN_587 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    orphans: 4321;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 14px/18px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: square outside none;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#SPAN_572, #SPAN_587*/
+
+#DIV_577 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    float: left;
+    height: 120px;
+    text-rendering: optimizelegibility;
+    width: 512px;
+    perspective-origin: 256px 60px;
+    transform-origin: 256px 60px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 30px 0px 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_577*/
+
+#DIV_578 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 16px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 1024px;
+    perspective-origin: 512px 8px;
+    transform-origin: 512px 8px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_578*/
+
+#UL_579 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 96px;
+    text-rendering: optimizelegibility;
+    width: 492px;
+    perspective-origin: 246px 48px;
+    transform-origin: 246px 48px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 10px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px 0px 0px 10px;
+}/*#UL_579*/
+
+#SPAN_595 {
+    box-sizing: border-box;
+    color: rgb(0, 143, 213);
+    display: inline-block;
+    orphans: 4321;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(0, 143, 213);
+    font: normal normal normal normal 14px/18px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: square outside none;
+    outline: rgb(0, 143, 213) none 0px;
+}/*#SPAN_595*/
+
+#DIV_596 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 36px;
+    text-align: right;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 18px;
+    transform-origin: 512px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 5px 10px 15px;
+}/*#DIV_596*/
+
+#SPAN_598 {
+    background-position: 50% 0%;
+    color: rgb(153, 153, 153);
+    display: inline-block;
+    height: 12px;
+    text-align: right;
+    text-rendering: optimizelegibility;
+    width: 67px;
+    perspective-origin: 38.5px 6px;
+    transform-origin: 38.5px 6px;
+    background: rgba(0, 0, 0, 0) url(http://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png) no-repeat scroll 50% 0% / auto padding-box border-box;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal normal normal 11px/11px arial;
+    margin: 0px -20.078125px 0px 0px;
+    outline: rgb(153, 153, 153) none 0px;
+    padding: 0px 5px;
+}/*#SPAN_598*/
+
+#DIV_599 {
+    box-sizing: border-box;
+    clear: both;
+    color: rgb(34, 34, 34);
+    height: 122px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 61px;
+    transform-origin: 512px 61px;
+    border-top: 5px solid rgb(34, 34, 34);
+    border-right: 0px none rgb(34, 34, 34);
+    border-bottom: 0px none rgb(34, 34, 34);
+    border-left: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 7px 0px 0px;
+}/*#DIV_599*/
+
+#DIV_600 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 36px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 18px;
+    transform-origin: 512px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 7px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_600*/
+
+#DIV_601 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 36px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 18px;
+    transform-origin: 512px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_601*/
+
+#UL_602 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table;
+    height: 36px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 18px;
+    transform-origin: 512px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_602*/
+
+#LI_603, #LI_605, #LI_609 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 205px;
+    perspective-origin: 102.5px 18px;
+    transform-origin: 102.5px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 11.1999998092651px/36px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_603, #LI_605, #LI_609*/
+
+#A_604, #A_606, #A_610 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    display: block;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 205px;
+    perspective-origin: 102.5px 18px;
+    transform-origin: 102.5px 18px;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal bold normal 11.1999998092651px/36px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#A_604, #A_606, #A_610*/
+
+#LI_607 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 205px;
+    perspective-origin: 102.5px 18px;
+    transform-origin: 102.5px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 11.1999998092651px/36px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_607*/
+
+#A_608 {
+    background-position: 0px -716px;
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    display: block;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: -99999px;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 26px;
+    perspective-origin: 13px 18px;
+    transform-origin: 13px 18px;
+    background: rgba(0, 0, 0, 0) url(https://s0.wp.com/wp-content/themes/vip/espn-fivethirtyeight/assets/img/src-sprites-retina-s4b86ec57fa.png) no-repeat scroll 0px -716px / 186px padding-box border-box;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal bold normal 11.1999998092651px/36px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px 89.5px;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#A_608*/
+
+#LI_611 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 204px;
+    perspective-origin: 102px 18px;
+    transform-origin: 102px 18px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal bold normal 11.1999998092651px/36px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_611*/
+
+#A_612 {
+    box-sizing: border-box;
+    color: rgb(147, 149, 152);
+    display: block;
+    height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 204px;
+    perspective-origin: 102px 18px;
+    transform-origin: 102px 18px;
+    border: 0px none rgb(147, 149, 152);
+    font: normal normal bold normal 11.1999998092651px/36px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(147, 149, 152) none 0px;
+}/*#A_612*/
+
+#DIV_613 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 29px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 14.5px;
+    transform-origin: 512px 14.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 0px 7px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_613*/
+
+#DIV_614 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    height: 29px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 14.5px;
+    transform-origin: 512px 14.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_614*/
+
+#UL_615 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table;
+    height: 29px;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 14.5px;
+    transform-origin: 512px 14.5px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 0px;
+}/*#UL_615*/
+
+#LI_616, #LI_618, #LI_620, #LI_622 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 28.59375px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 205px;
+    perspective-origin: 102.5px 14.296875px;
+    transform-origin: 102.5px 14.296875px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_616, #LI_618, #LI_620, #LI_622*/
+
+#A_617, #A_619, #A_623 {
+    box-sizing: border-box;
+    color: rgb(254, 254, 254);
+    display: block;
+    height: 28.59375px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 205px;
+    perspective-origin: 102.5px 14.296875px;
+    transform-origin: 102.5px 14.296875px;
+    background: rgb(34, 34, 34) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(254, 254, 254);
+    font: normal normal normal normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(254, 254, 254) none 0px;
+    padding: 7.80000019073486px;
+}/*#A_617, #A_619, #A_623*/
+
+#A_621 {
+    box-sizing: border-box;
+    color: rgb(254, 254, 254);
+    display: block;
+    height: 28.59375px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 205px;
+    perspective-origin: 102.5px 14.296875px;
+    transform-origin: 102.5px 14.296875px;
+    background: rgb(34, 34, 34) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(254, 254, 254);
+    font: normal normal normal normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(254, 254, 254) none 0px;
+    padding: 7.80000019073486px;
+}/*#A_621*/
+
+#LI_624 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: table-cell;
+    height: 28.59375px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 204px;
+    perspective-origin: 102px 14.296875px;
+    transform-origin: 102px 14.296875px;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#LI_624*/
+
+#A_625 {
+    box-sizing: border-box;
+    color: rgb(254, 254, 254);
+    display: block;
+    height: 28.59375px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    text-transform: uppercase;
+    width: 204px;
+    perspective-origin: 102px 14.296875px;
+    transform-origin: 102px 14.296875px;
+    background: rgb(34, 34, 34) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(254, 254, 254);
+    font: normal normal normal normal 13px/13px Decima, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    list-style: none outside none;
+    outline: rgb(254, 254, 254) none 0px;
+    padding: 7.80000019073486px;
+}/*#A_625*/
+
+#P_626, #P_632 {
+    box-sizing: border-box;
+    color: rgb(128, 128, 128);
+    height: 9px;
+    text-align: center;
+    text-rendering: optimizelegibility;
+    width: 1024px;
+    perspective-origin: 512px 4.5px;
+    transform-origin: 512px 4.5px;
+    border: 0px none rgb(128, 128, 128);
+    font: normal normal normal normal 9px/8px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 10px 0px;
+    outline: rgb(128, 128, 128) none 0px;
+}/*#P_626, #P_632*/
+
+#A_627, #A_628, #A_630, #A_633 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 9px/8px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_627, #A_628, #A_630, #A_633*/
+
+#A_629, #A_631 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-align: center;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 9px/8px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#A_629, #A_631*/
+
+#DIV_634 {
+    box-sizing: border-box;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 1400px;
+    perspective-origin: 700px 0px;
+    transform-origin: 700px 0px;
+    font: normal normal normal normal 11px/11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+}/*#DIV_634*/
+
+#DIV_635, #DIV_639 {
+    box-sizing: border-box;
+    position: absolute;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    top: -10000px;
+    align-self: stretch;
+    font: normal normal normal normal 11px/11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+    overflow: hidden;
+}/*#DIV_635, #DIV_639*/
+
+#DIV_636 {
+    box-sizing: border-box;
+    height: 151px;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    perspective-origin: 0px 75.5px;
+    transform-origin: 0px 75.5px;
+    font: normal normal normal normal 11px/11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+}/*#DIV_636*/
+
+#IFRAME_637, #IFRAME_638 {
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    width: 0px;
+    perspective-origin: 0px 75px;
+    transform-origin: 0px 75px;
+    border: 0px none rgb(0, 0, 0);
+    font: normal normal normal normal 11px/11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+    overflow: hidden;
+}/*#IFRAME_637, #IFRAME_638*/
+
+#DIV_640 {
+    box-sizing: border-box;
+    text-align: left;
+    text-rendering: optimizelegibility;
+    font: normal normal normal normal 11px/11px 'lucida grande', tahoma, verdana, arial, sans-serif;
+}/*#DIV_640*/
+
+#NOSCRIPT_644, #SCRIPT_648, #SCRIPT_658 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#NOSCRIPT_644, #SCRIPT_648, #SCRIPT_658*/
+
+#SCRIPT_654, #SCRIPT_662 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#SCRIPT_654, #SCRIPT_662*/
+
+#IMG_664 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: none;
+    height: auto;
+    max-width: 100%;
+    text-rendering: optimizelegibility;
+    width: auto;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IMG_664*/
+
+#DIV_666 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: col-resize;
+    height: 408px;
+    position: fixed;
+    right: 0px;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    z-index: 2147483647;
+    perspective-origin: 0px 204px;
+    transform-origin: 0px 204px;
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#DIV_666*/
+
+#A_667 {
+    box-sizing: border-box;
+    color: rgb(204, 204, 204);
+    display: inline-block;
+    height: 37px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 32.578125px;
+    perspective-origin: 16.28125px 18.5px;
+    transform-origin: 16.28125px 18.5px;
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 204, 204) none 0px;
+    padding: 10px;
+}/*#A_667*/
+
+#I_668 {
+    background-position: 0px 0px;
+    box-sizing: border-box;
+    color: rgb(204, 204, 204);
+    display: inline-block;
+    height: 17px;
+    text-rendering: optimizelegibility;
+    width: 12.578125px;
+    perspective-origin: 6.28125px 8.5px;
+    transform-origin: 6.28125px 8.5px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/normal FontAwesome;
+    outline: rgb(204, 204, 204) none 0px;
+}/*#I_668*/
+
+#I_668:before {
+    color: rgb(204, 204, 204);
+    display: inline-block;
+    height: 17px;
+    speak: none;
+    text-rendering: optimizelegibility;
+    width: 12.578125px;
+    perspective-origin: 6.28125px 8.5px;
+    transform-origin: 6.28125px 8.5px;
+    content: '';
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/normal FontAwesome;
+    outline: rgb(204, 204, 204) none 0px;
+}/*#I_668:before*/
+
+#BR_669 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: col-resize;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#BR_669*/
+
+#A_670 {
+    box-sizing: border-box;
+    color: rgb(204, 204, 204);
+    display: inline-block;
+    height: 37px;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 36px;
+    perspective-origin: 18px 18.5px;
+    transform-origin: 18px 18.5px;
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(204, 204, 204) none 0px;
+    padding: 10px;
+}/*#A_670*/
+
+#I_671 {
+    background-position: 0px 0px;
+    box-sizing: border-box;
+    color: rgb(204, 204, 204);
+    display: inline-block;
+    height: 17px;
+    text-rendering: optimizelegibility;
+    width: 16px;
+    perspective-origin: 8px 8.5px;
+    transform-origin: 8px 8.5px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/normal FontAwesome;
+    outline: rgb(204, 204, 204) none 0px;
+}/*#I_671*/
+
+#I_671:before {
+    color: rgb(204, 204, 204);
+    display: inline-block;
+    height: 17px;
+    speak: none;
+    text-rendering: optimizelegibility;
+    width: 16px;
+    perspective-origin: 8px 8.5px;
+    transform-origin: 8px 8.5px;
+    content: '';
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/normal FontAwesome;
+    outline: rgb(204, 204, 204) none 0px;
+}/*#I_671:before*/
+
+#FORM_672 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    cursor: col-resize;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#FORM_672*/
+
+#INPUT_673 {
+    bottom: 0px;
+    color: rgb(153, 153, 153);
+    display: block;
+    height: 30px;
+    left: 36px;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    width: 16px;
+    z-index: 1;
+    align-self: stretch;
+    perspective-origin: 8px 15px;
+    transform-origin: 8px 15px;
+    background: rgba(255, 255, 255, 0.901961) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal normal normal 13px/normal '.HelveticaNeueDeskInterface-Regular';
+    outline: rgb(153, 153, 153) none 0px;
+    padding: 8px;
+}/*#INPUT_673*/
+
+#IFRAME_674 {
+    background-position: 50% 50%;
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    height: 408px;
+    left: 36px;
+    max-width: 100%;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    top: 0px;
+    width: 0px;
+    align-self: stretch;
+    perspective-origin: 0px 204px;
+    transform-origin: 0px 204px;
+    background: rgb(255, 255, 255) none no-repeat scroll 50% 50% / auto padding-box border-box;
+    border: 0px none rgb(34, 34, 34);
+    font: normal normal normal normal 16px/16px AtlasGroteskWeb, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+}/*#IFRAME_674*/
+

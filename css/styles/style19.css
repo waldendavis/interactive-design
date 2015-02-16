@@ -1,0 +1,134 @@
+/* style nineteen */
+
+body {
+    box-sizing: border-box;
+    letter-spacing: 0.25px;
+    min-height: 500px;
+    position: relative;
+    vertical-align: top;
+    width: 100%;
+    background: #333333
+    margin: 0px;
+    padding: 0px;
+}/*#SECTION_173*/
+
+.imageone {
+    background-position: 100% 50%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+
+    height: 100%;
+    width: 75%;
+
+    opacity: 0.1;
+    background: rgba(0, 0, 0, 0) 
+    url(http://www.perfectlounge.ch/wp-content/uploads/2012/10/Bildschirmfoto-2012-10-05-um-14.46.45.png) 
+    repeat scroll 100% 50% / cover padding-box border-box;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}/*#DIV_179*/
+
+.imageone:hover {
+    opacity:0.4;
+}
+
+.imagetwo {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    opacity: 0.1;
+    background: rgba(0, 0, 0, 0) 
+    url(http://obamapacman.com/wp-content/uploads/2011/09/Young-Steve-Jobs.jpg) 
+    repeat scroll 100% 50% / cover padding-box border-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -210px;
+    overflow: hidden;
+
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
+
+.imagetwo:hover {
+    opacity:0.6;
+}
+
+.imagethree {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    opacity: 0.1;
+    background: rgba(0, 0, 0, 0) 
+    url(http://www.benhammer.de/wp-content/2011/11/diana-walker-x-steve-jobs_09.jpg) 
+    repeat scroll 100% 50% / cover padding-box border-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -210px;
+    overflow: hidden;
+
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
+
+.imagethree:hover {
+    opacity:0.6;
+}
+
+h1 {
+    color: orange;
+    font-size: 6em;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-align: right;
+    position: absolute;
+    right: 80px;
+    top: 70px;
+    width: 400px;
+    margin: 0px 55px 55px 0px;
+
+}/*#H1_180*/
+
+
+h2 {
+    color: orange;
+    font-size: 3em;
+    font-family: 'Cardo', serif;
+    font-weight: 400;
+    text-align: center;
+}/*#H1_180*/
+
+p {
+    letter-spacing: 0.75px;
+    text-align: left;
+    color: #787878;
+    width: 500px;
+    perspective-origin: 250px 104px;
+    transform-origin: 250px 104px;
+    font-family: 'Helvetica', sans-serif;
+    line-height: 32px;
+    margin: 0px;
+    padding: 10px;
+}/*#P_184*/
+
+.text {
+    bottom: 80px;
+    box-sizing: border-box;
+    height: 208px;
+    left: 92px;
+    letter-spacing: 0.75px;
+    position: absolute;
+    width: 500px;
+    align-self: stretch;
+    perspective-origin: 250px 104px;
+    transform-origin: 250px 104px;
+}/*#DIV_183*/

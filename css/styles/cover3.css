@@ -1,0 +1,75 @@
+/*body{
+    position:relative;
+    background: url(https://wowpages.files.wordpress.com/2012/07/steve-working-at-his-home-for-boson-macworld-speech-1997.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width:100%;
+    height:100%;
+    margin:0
+}
+
+body:after{
+    position:fixed;
+    content:"";
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background:rgba(255, 191, 0, 0.5);
+    z-index:-1;
+}*/
+
+body {
+    background-color: whitesmoke;
+}
+
+header {
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+h1 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    border: 0px none;
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+    font-size: 8em;
+    padding: auto;
+    text-align: left;
+    vertical-align: middle;
+    line-height: 175px;
+    color: lightgray;
+}
+
+#navigation {
+    position: fixed;
+    bottom: 100px;
+    width: 100%;
+    height: 45px;
+    text-align: left;
+    padding-top: 17.5px;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: white;
+}
+
+#navigation a {
+    font-size: 1.75em;
+    font-family: 'Helvetica', serif;
+    font-weight: 400;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: lightgray;
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    color: gray;
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;  
+}

@@ -1,5 +1,5 @@
 
-/* header styling */
+/* STYLING */
 
 h1 {
 	font-size: 2em;
@@ -9,13 +9,11 @@ h1 {
 }
 
 h2 {
-	font-size: 4em;
+	font-size: 2em;
 	font-family: 'Quattrocento', sans-serif;
 	font-weight: 400;
 	color: white;
 }
-
-/* paragraph, list, link, bold styling */
 
 p, ul, li {
 	font-family: 'Cabin', sans-serif;
@@ -26,7 +24,7 @@ p, ul, li {
 
 strong {
 	font-family: 'Cabin', sans-serif;
-	font-weight: 600;
+	font-weight: 400;
 	text-transform: lowercase;
 	font-size: 1em;
 	color: #f2f2f2;
@@ -36,8 +34,6 @@ li {
 	margin-bottom: 12px;
 	margin-top: 12px;
 }
-
-/* body styling */
 
 body {
   	background-color: #E0DEDE;
@@ -52,9 +48,8 @@ body {
 	width: 100%;
 }
 
-/* ------------------------- links ------------------------- */
+/* TEXT LINKS */
 
-/* for text */
 a {
 	text-decoration: none;
   	color: #333333; 
@@ -66,13 +61,11 @@ a:hover {
 	background-color: #FBB03B;
 }
 
-/* where I stopped designing, working on headline hover */
 
-/*a.grid-special:hover {
-	color: #FBB03B;
-}*/
+/* -------------------------------------------------------------------------- */
 
-/* ------------------------- grid ------------------------- */
+
+/* GRID SKELETON */
 
 .grid-wrap {    
     overflow: hidden;
@@ -92,7 +85,7 @@ a:hover {
     box-sizing: border-box;
 }
 
-/* classes to use to take up different %s of the screen */
+/* COLUMN WIDTHS */
 
 .col100 {width: 100%; }
 .col75 {width: 75%; }
@@ -101,12 +94,16 @@ a:hover {
 .col33 {width: 33.333%; }
 .col25 {width: 25%; }
 
+/* -------------------------------------------------------------------------- */
+
+/* TEXT CENTERING */
+
 .grid-box.center { /* this is what makes the text centered H & V */
 	border: 0px solid black;
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.5em; 
     width: 10%; /* question for L, why does this need 10%? */
 }
 
@@ -119,16 +116,40 @@ span.grid-box {
 	height: 160px; /* sets the height of the cells in the grid */
 }
 
+.grid-box img {
+	display: table-cell;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	width: 100%;
+}
+
+.grid-box .grid-image,
+.grid-box .grid-text, {
+	display: block;
+}
+
+/* GRID HOVER */
+
 a.grid-box:hover {
 	background: #FBB03B; /* color of the background on hover */
 	cursor: pointer;
-	-webkit-animation: happy 1s ease-out;
+	-webkit-animation: happy 3s ease-out;
 	-webkit-animation-iteration-count: infinite;
 	-webkit-animation-delay: 0.5s;
 	animation-delay: 0.5s;
 }
 
-/* where I stopped designing, working on headline hover */
+@-webkit-keyframes happy {
+    0% { background: #FBB03B; }
+    50% { background: #E0DEDE; }
+    100% { background: #FBB03B; }
+}
+
+/* HEADLINE HOVER */
+
+/*a.grid-special { color: #FBB03B; }*/
 
 /*a.grid-special:hover {
 	background: #E0DEDE;
@@ -139,26 +160,13 @@ a.grid-box:hover {
 	animation-delay: 0.5s;
 }*/
 
-@-webkit-keyframes happy {
-    0% { background: #FBB03B; }
-    50% { background: #E0DEDE; }
-    100% { background: #FBB03B; }
-}
-
 /*@-webkit-keyframes happy-special {
     0% { color: #FBB03B; }
     50% { color: #E0DEDE; }
     100% { color: #FBB03B; }
 }*/
 
-.grid-box .class,
-.grid-expanded .class,
-.grid-box .date,
-.grid-expanded .date {
-	display: block;
-}
-
-/* mainly for howtohome.html */
+/* FIXED & ABSOLUTE */
 
 .grid-fixed {
 	position: fixed;
@@ -172,41 +180,7 @@ a.grid-box:hover {
 	left: 0%;
 }
 
-/* --------------------------------------------- needed? from L's site */
-
-/*.grid-box.completed {
-  border: 0px solid #BEC6C9;
-  transition: .1s border ease-out;
-  -webkit-transition: .1s border ease-out;
-  -moz-transition: .1s border ease-out;
-  -o-transition: .1s border ease-out;
-}
-
-.grid-box.completed:hover {
-  background: none;
-  border: 0px solid black;
-  -webkit-animation: none;
-}
-
-.grid-wrap.single .grid-box.completed {
-  border: 0px solid black;
-}*/
-
-/*.grid-box .projects {
-  margin-top: 1em;
-}
-
-.grid-expanded {
-  border: 0px solid black;
-  padding: 16px;
-  margin-bottom: 16px;
-}
-
-.grid-expanded .date {
-  margin-bottom: 20px;
-}*/
-
-/* ------------------------- how to ------------------------- */
+/* -------------------------------------------------------------------------- */
 
 #introhowto,
 #brainhowto, 

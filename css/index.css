@@ -126,7 +126,8 @@ span.grid-box {
 	margin-left: auto;
 	margin-right: auto;
 	vertical-align: middle;
-	width: auto;
+	/*width: 100%;*/ /* so this doesn't seem to be helping */
+	height: 160px;
 }
 
 .grid-box .grid-image,

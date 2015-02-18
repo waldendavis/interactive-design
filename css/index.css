@@ -78,7 +78,6 @@ a:hover {
 	padding: 0% 0% 0% 0%;
 	margin: 0% 0% 0% 0%;
     width: 100%;
-    height: 160px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -104,6 +103,7 @@ a:hover {
 	vertical-align: middle;
 	text-align: center;
 	font-size: 1.5em; 
+	height: 170px;
     width: 10%; /* question for L, why does this need 10%? */
 }
 
@@ -113,7 +113,7 @@ span.grid-box {
 	display: block;
 	background: none;
 	padding: 20px;
-	height: 160px; /* sets the height of the cells in the grid */
+	height: 170px; /* sets the height of the cells in the grid */
 }
 
 .grid-box img {
@@ -127,7 +127,7 @@ span.grid-box {
 	margin-right: auto;
 	vertical-align: middle;
 	/*width: 100%;*/ /* so this doesn't seem to be helping */
-	height: 160px;
+	height: 170px;
 }
 
 .grid-box .grid-image,
@@ -177,6 +177,14 @@ a.grid-box:hover {
 	position: fixed;
 	top: 0%;
 	left: 0%;
+	z-index: 999;
+}
+
+.grid-back-to-top {
+	position: fixed;
+	bottom: 0%;
+	right: 0%;
+	z-index: 999;
 }
 
 .grid-absolute {

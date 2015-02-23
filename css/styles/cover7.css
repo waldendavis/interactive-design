@@ -1,0 +1,83 @@
+body{
+    position:relative;
+    background-color: whitesmoke;
+    /*background: url(http://projectc1.projectcasting.netdna-cdn.com/wp-content/uploads/2014/11/SteveJobsCloseUp.jpeg) no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0
+}
+
+header {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+header {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(51, 51, 51, 0.1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+}
+
+header:hover {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    border: 0px none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    /*font-style: italic;*/
+    font-size: 6em;
+    padding: auto;
+    text-align: left;
+    vertical-align: middle;
+    /*color: rgba(0,0,0,0.9);*/
+}
+
+
+#navigation {
+    position: fixed;
+    top: 500px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 0%;
+    background-color: rgba(51, 51, 51, 0.1);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+#navigation:hover {
+    background-color: rgba(219, 131, 154, 1);
+}
+
+#navigation a {
+    font-size: 1.75em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgba(245, 245, 245, 0.3);
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    color: rgba(245, 245, 245, 0.8);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;  
+} 

@@ -1,0 +1,90 @@
+body{
+    position:relative;
+    background: url(http://cdn02.branchez-vous.com/wp-content/uploads/2014/01/stevejobsmac1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width:100%;
+    height:100%;
+    margin:0
+}
+
+body:after{
+    position:fixed;
+    content:"";
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background:rgba(0,0,0,0.7);
+    z-index:-1;
+}
+
+header {
+    width: 15%;
+    margin-right: 43%;
+    margin-left: 42%;
+    color: rgba(0, 0, 0, 0.8);
+    transition: color 2s ease-in-out;
+    -moz-transition: color 2s ease-in-out;
+    -webkit-transition: color 2s ease-in-out;
+}
+
+header:hover {
+    color: rgba(240, 240, 240, 0.8);
+}
+
+h1 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    border: 0px none;
+    font-family: 'Inconsolata', sans-serif;
+    font-size: 2em;
+    margin-top: 430px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#navigation {
+    position: fixed;
+    top: 100px;
+    width: 100%;
+    height: 30px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 41.5%;
+    background-color: rgba(0, 0, 0, 1);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+#navigation:hover {
+    background-color: rgba(250, 250, 250, 0.5);
+}
+
+#navigation a {
+    font-size: 1.25em;
+    font-family: 'Inconsolata', sans-serif;
+    font-weight: 400;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgba(250, 250, 250, 0.8);
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    color: rgba(0, 0, 0, 1);
+    font-weight: 700;
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+    
+} 

@@ -1,0 +1,263 @@
+body{
+    position:relative;
+    background: url(http://www.eggplante.com/wp-content/uploads/2015/01/001-steve-jobs-theredlist.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width:100%;
+    height:100%;
+    margin:0;
+    background-color: rgb(0, 86, 137);
+}
+
+body:after{
+    position:fixed;
+    content:"";
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background: rgba(0, 86, 137, 0.7);
+    z-index:-1;
+}
+
+header {
+    width: 40%;
+    margin-right: auto;
+    margin-left: 5%;
+    color: rgba(250,250,250,1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+}
+
+header:hover {
+    color: rgba(0,0,0,0.9);
+}
+
+h1 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    border: 0px none;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 7em;
+    margin-top: 100px;
+    margin-left: 0%;
+    margin-right: auto;
+    padding: auto;
+    text-align: left;
+    vertical-align: middle;
+    /*line-height: 175px;*/
+    text-transform: lowercase;
+    letter-spacing: 5px;
+}
+
+#navigation {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0%;
+    background-color: rgba(250, 250, 250, 0.2);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+#navigation:hover {
+    background-color: rgba(250, 250, 250, 0.8);
+}
+
+#navigation a {
+    font-size: 1.25em;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 2.5px;
+    text-transform: lowercase;
+    padding-left: 0%;
+    padding-right: 0%;
+    color: rgba(250, 250, 250, 0.8);
+    text-decoration: none;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    height: 50px;
+    width: 0.1%;
+}
+
+#navigation a:hover {
+    color: rgba(0, 86, 137, 1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+} 
+
+
+/* ------------------------------------------------------------------ */
+
+#HEADER_115 {
+    color: rgb(51, 51, 51);
+    top: 0px;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    height: 192px;
+    position: fixed;
+    text-rendering: optimizelegibility;
+    width: 1440px;
+    background: rgba(0, 86, 137, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#HEADER_115*/
+
+#DIV_181 {
+    color: rgb(51, 51, 51);
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1440px;
+    z-index: 2;
+    perspective-origin: 720px 0px;
+    transform-origin: 720px 0px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_181*/
+
+#DIV_182 {
+    color: rgb(51, 51, 51);
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    max-width: 1300px;
+    position: relative;
+    text-rendering: optimizelegibility;
+    width: 1300px;
+    perspective-origin: 650px 0px;
+    transform-origin: 650px 0px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    margin: 0px 70px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_182*/
+
+#SPAN_183, #META_184, #SCRIPT_924, #SCRIPT_945, #NOSCRIPT_1279, #NOSCRIPT_1281, #SCRIPT_1283 {
+    color: rgb(51, 51, 51);
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    text-rendering: optimizelegibility;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#SPAN_183, #META_184, #SCRIPT_924, #SCRIPT_945, #NOSCRIPT_1279, #NOSCRIPT_1281, #SCRIPT_1283*/
+
+#A_185 {
+    color: rgb(0, 86, 137);
+    cursor: pointer;
+    display: block;
+    float: right;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    height: 60px;
+    position: relative;
+    text-decoration: none;
+    text-rendering: optimizelegibility;
+    width: 320px;
+    perspective-origin: 160px 30px;
+    transform-origin: 160px 30px;
+    border: 0px none rgb(0, 86, 137);
+    font: normal normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    margin: 6px 20px 6px 0px;
+    outline: rgb(0, 86, 137) none 0px;
+}/*#A_185*/
+
+#SPAN_186 {
+    clip: rect(0px 0px 0px 0px);
+    color: rgb(0, 86, 137);
+    cursor: pointer;
+    display: block;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    height: 1px;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    width: 1px;
+    align-self: stretch;
+    perspective-origin: 0.5px 0.5px;
+    transform-origin: 0.5px 0.5px;
+    border: 0px none rgb(0, 86, 137);
+    font: normal normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    margin: -1px;
+    outline: rgb(0, 86, 137) none 0px;
+    overflow: hidden;
+}/*#SPAN_186*/
+
+#I_187 {
+    background-position: 0px 0px;
+    color: rgb(0, 86, 137);
+    cursor: pointer;
+    display: none;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    height: 30px;
+    text-rendering: optimizelegibility;
+    width: 160px;
+    perspective-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    background: rgba(0, 0, 0, 0) url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMjAgNjAiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yODQgNDVoMTZ2LTNsLTMtMS41di0yMGMxLjItLjkgMi44LTEuMSA0LjMtMS4xIDIuOCAwIDMuOC45IDMuOCA0LjF2MTdsLTMgMS41djNoMTZ2LTNsLTMtMS41di0xOWMwLTUuNy0yLjItOC4zLTcuMi04LjMtNC4xIDAtOC4xIDEuNS0xMC44IDRWMTNoLTFsLTEyLjQgMi4ydjIuN2wzLjQgMS42djIxbC0zIDEuNS0uMSAzek0yNDUuMy40Yy0zIDAtNS40IDIuNC01LjQgNS41IDAgMyAyLjQgNS40IDUuNCA1LjQgMi45IDAgNS40LTIuNCA1LjQtNS40LS4xLTMuMS0yLjUtNS41LTUuNC01LjV6TTIzNyAxNS4xdjIuOGwzIDEuNnYyMC45bC0zIDEuNXYzaDE2di0zbC0zLTEuNVYxMy4xaC0xbC0xMiAyek0yMjIuOSAzOWMtLjcuNi0xLjYgMS4xLTMuMSAxLjEtNCAwLTUuOS0zLjMtNS45LTEwLjkgMC04LjcgMi40LTExLjcgNS42LTExLjcgMS44IDAgMi43LjYgMy40IDEuNFYzOXptMC0yNC41Yy0xLjItLjktMy4yLTEuNC00LjktMS40LTcuNCAwLTE0LjUgNC4zLTE0LjUgMTYuOCAwIDExLjkgNy4xIDE1LjcgMTEuOCAxNS43IDMuOCAwIDYuNC0xLjcgNy42LTMuNGguM3YzLjNoLjlsMTEuOS0xLjR2LTIuM2wtMy4yLTEuOFYuNmgtLjhsLTEyLjYgMnYyLjhsMy40IDEuNnY3LjVoLjF6TTE4MSAxOGwzIDEuNXYyMC45bC0zIDEuNXYzaDE3di0zbC0zLjktMS41VjI0LjFjMS44LTEuNCA0LTEuOSA2LjctMS45LjkgMCAxLjYuMiAyLjIuM3YtOWMtLjMtLjEtLjctLjItMS4yLS4yLTMuMyAwLTUuOSAyLjEtNy43IDYuMlYxM0gxOTNsLTEyIDJ2M3ptLTE5LjMtLjhjMy45IDAgNSAyIDUgNS45djMuNWwtNS44IDEuMWMtNS45IDEuMS0xMC40IDMtMTAuNCA5LjMgMCA1LjEgMy41IDguNyA4LjMgOC43IDMuOCAwIDcuNC0xLjcgOC43LTQuNGguM2MuNSAzLjMgMy4zIDQuNCA2LjQgNC40IDIuNCAwIDQuOC0uNiA1LjctMS42di0ybC0zLTEuNXYtMThjMC02LjktNS05LjQtMTMuMS05LjQtNS4zIDAtOC44IDEuNC0xMS42IDIuN3Y3LjhoNC43bDItNmMuOS0uNSAyLjQtLjUgMi44LS41em0yLjMgMjIuOWMtMS45IDAtNC0xLjEtNC00LjYgMC0yLjQgMi40LTQuNiA0LjgtNWwyLjItLjV2OC41cy0xLjkgMS42LTMgMS42em0xMDAuOC0yMi45YzMuOSAwIDUgMiA1IDUuOXYzLjVsLTUuOCAxLjFjLTUuOSAxLjEtMTAuNCAzLTEwLjQgOS4zIDAgNS4xIDMuNSA4LjcgOC4zIDguNyAzLjggMCA3LjQtMS43IDguNy00LjRoLjNjLjUgMy4zIDMuMyA0LjQgNi40IDQuNCAyLjQgMCA0LjgtLjYgNS43LTEuNnYtMmwtMy0xLjV2LTE4YzAtNi45LTUtOS40LTEzLjEtOS40LTUuMyAwLTguOCAxLjQtMTEuNiAyLjd2Ny44aDQuN2wyLTZjLjgtLjUgMi4zLS41IDIuOC0uNXptMi4yIDIyLjljLTEuOSAwLTQtMS4xLTQtNC42IDAtMi40IDIuNC00LjYgNC44LTVsMi4yLS41djguNXMtMS45IDEuNi0zIDEuNnptLTEzOC43IDUuNmMuNCAwIC45IDAgMS4zLS4xIDMuNS0uMyA2LjctMiA4LjQtNC4ydjQuMWwxMi0xLjV2LTJsLTMtMlYxM2gtMWwtMTEuOSAyLjN2Mi44bDMuOSAxLjZWMzhjLTEuMS44LTIuNCAxLjMtNC4yIDEuMy0yLjUgMC00LjgtLjgtNC44LTQuM1YxM2gtMWwtMTIgMi41djIuNmw0IDEuNlYzNmMwIDUuNCAyLjIgOS43IDguMyA5Ljd6TTk2IDM4Yy0xLjIgMC0yLjUtLjgtMi41LTEuOSAwLS44LjYtMS43IDEuMy0yLjMgMS42LjUgMyAuNiA1IC42IDcuOCAwIDEzLjItMy43IDEzLjItMTAuNCAwLTMtMS4zLTQuNi0zLjItNi40TDExNSAxOXYtNmwtOC4yIDEuNmMtMS45LS43LTQuNS0xLjYtNy0xLjYtNy44IDAtMTMuMiA0LjEtMTMuMiAxMC44IDAgNC4xIDIgNy4xIDUgOC44bC4zLjJjLTEuNyAxLjItNS4zIDQtNS4zIDcuMiAwIDIuNCAxLjUgNC44IDQuOCA1LjVDODggNDYuMyA4NCA0OCA4NCA1MmMwIDQuMSA1LjkgOCAxNS41IDggMTEuOCAwIDE2LjUtNS43IDE2LjUtMTMgMC02LjEtMi44LTktOS41LTlIOTZ6bTcuNS0xNGMwIDUuNy0xLjMgNi41LTMuNSA2LjVzLTQtLjgtNC02LjVjMC01LjggMS44LTcuNSA0LTcuNXMzLjUgMiAzLjUgNy41ek05MiA1MC45Yy4xLTEuNSAxLjEtMy40IDMuNy0zLjZoOC42YzIuNSAwIDMuNyAyIDMuNyAzLjYgMCAzLjItMiA0LjQtOC4zIDQuNC01LjUgMC03LjgtMi4yLTcuNy00LjR6Ii8+PHBhdGggZmlsbD0iI0FBRDhGMSIgZD0iTTgzIDMwYzAtMTMtNS4xLTE2LjktMTMtMTYuOS05IDAtMTUgNi4yLTE1IDE2LjQgMCAxMC41IDUuNSAxNi4yIDE1LjggMTYuMiA1LjYgMCA5LjgtMi43IDExLjItNC43di0zYy0yLjEuNy0zLjkgMS4yLTcuOCAxLjItNS40IDAtOS4yLTMuMi05LjItOS4yaDE4ek02OS45IDE2LjZjMi41IDAgMy44IDEuOSAzLjggOS42bC04LjQuNWMuMi03LjkgMS44LTEwLjEgNC42LTEwLjF6TTM3IDQ1di0zbC0zLTEuNVYyMWMxLjItLjkgMy4zLTEuNyA0LjgtMS43IDIuOCAwIDQuMyAxLjUgNC4yIDQuMnYxN0w0MCA0MnYzaDE2di0zbC0zLTEuNXYtMTljMC01LjctMy4zLTguMy03LjctOC4zLTQuMSAwLTguNiAxLjMtMTEuMyAzLjhWMGgtMUwyMSAydjNsNCAxLjV2MzRMMjIgNDJ2M2gxNXpNNCAzNi40YzAgNS43IDIuOCA5LjMgOC45IDkuMyAzLjEgMCA2LjUtLjggOC40LTIuM3YtMy44Yy0uOC4zLTIuMi41LTMuMy41LTIuOSAwLTQtMS42LTQtNC42VjE5aDd2LTVoLTdWNi41TDQgOHY2bC00IDF2NGg0djE3LjR6Ii8+PC9zdmc+) no-repeat scroll 0px 0px / contain padding-box border-box;
+    border: 0px none rgb(0, 86, 137);
+    font: italic normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    outline: rgb(0, 86, 137) none 0px;
+}/*#I_187*/
+
+#I_188 {
+    background-position: 0px 0px;
+    color: rgb(0, 86, 137);
+    cursor: pointer;
+    display: block;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    height: 60px;
+    text-rendering: optimizelegibility;
+    width: 320px;
+    margin-top: 60px;
+    perspective-origin: 160px 30px;
+    transform-origin: 160px 30px;
+    background: rgba(0, 0, 0, 0) url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjAiIGhlaWdodD0iNjAiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yODQgNDVoMTZ2LTNsLTMtMS41di0yMGMxLjItLjkgMi44LTEuMSA0LjMtMS4xIDIuOCAwIDMuNy45IDMuNyA0LjF2MTdsLTMgMS41djNoMTZ2LTNsLTMtMS41di0xOWMwLTUuNy0yLjEtOC4zLTcuMS04LjMtNC4xIDAtOC4xIDEuNS0xMC44IDRWMTNoLTFsLTEyLjQgMi4ydjIuN2wzLjMgMS42djIxbC0zIDEuNXYzek0yNDUuMy40Yy0zIDAtNS40IDIuNC01LjQgNS41IDAgMyAyLjQgNS40IDUuNCA1LjQgMi45IDAgNS40LTIuNCA1LjQtNS40LS4xLTMuMS0yLjUtNS41LTUuNC01LjV6TTIzNyAxNS4xdjIuOGwzIDEuNnYyMC45bC0zIDEuNVY0NWgxNnYtMy4xbC0zLTEuNVYxMy4xaC0xbC0xMiAyek0yMjMgMzljLS43LjYtMS43IDEuMS0zLjIgMS4xLTQgMC01LjktMy4zLTUuOS0xMC45IDAtOC43IDIuNC0xMS42IDUuNi0xMS42IDEuOCAwIDIuOC42IDMuNSAxLjR2MjB6bTAtMjQuNGMtMS4yLS45LTMuMy0xLjQtNS0xLjQtNy40IDAtMTQuNSA0LjQtMTQuNSAxNi44IDAgMTEuOSA3LjEgMTUuNyAxMS44IDE1LjcgMy44IDAgNi40LTEuNyA3LjYtMy40aC4zdjMuM2guOWwxMS45LTEuNHYtMi4zbC0zLTEuOFYuNmgtMWwtMTIuNiAydjIuOGwzLjYgMS41djcuN3pNMTgxIDE4bDMgMS41djIwLjlsLTMgMS41VjQ1aDE3di0zLjFsLTQtMS41VjI0LjFjMS44LTEuNCA0LjEtMS45IDYuOC0xLjkuOSAwIDEuNi4yIDIuMi4zdi05Yy0uMy0uMS0uNy0uMi0xLjItLjItMy4zIDAtNiAyLjItNy44IDYuMlYxM2gtMWwtMTIgMnYzem0tMTkuMy0uOGMzLjkgMCA1LjMgMiA1LjMgNS45djMuNWwtNi4xIDEuMWMtNS45IDEuMS0xMC40IDIuOS0xMC40IDkuMyAwIDUuMSAzLjUgOC43IDguMyA4LjcgMy44IDAgNy40LTEuNyA4LjctNC40aC4zYy41IDMuMyAzLjMgNC40IDYuNCA0LjQgMi40IDAgNC44LS42IDUuNy0xLjZ2LTJsLTIuOS0xLjV2LTE4YzAtNy01LjItOS40LTEzLjMtOS40LTUuMyAwLTguNiAxLjMtMTEuNCAyLjZ2Ny44aDQuN2wyLTZjMS4xLS40IDIuMy0uNCAyLjctLjR6bTIuMyAyMi45Yy0xLjkgMC00LTEuMS00LTQuNiAwLTIuNCAyLjQtNC43IDQuOC01bDIuMi0uNXY4LjVzLTEuOSAxLjYtMyAxLjZ6bTEwMC43LTIyLjljMy45IDAgNS4zIDIgNS4zIDUuOXYzLjVsLTYuMSAxLjFjLTUuOSAxLjEtMTAuNCAyLjktMTAuNCA5LjMgMCA1LjEgMy41IDguNyA4LjMgOC43IDMuOCAwIDcuNC0xLjcgOC43LTQuNGguM2MuNSAzLjMgMy4zIDQuNCA2LjQgNC40IDIuNCAwIDQuOC0uNiA1LjctMS42di0ybC0yLjktMS41di0xOGMwLTctNS4yLTkuNC0xMy4zLTkuNC01LjMgMC04LjYgMS4zLTExLjQgMi42djcuOGg0LjdsMi02YzEuMS0uNCAyLjMtLjQgMi43LS40em0yLjMgMjIuOWMtMS45IDAtNC0xLjEtNC00LjYgMC0yLjQgMi40LTQuNyA0LjgtNWwyLjItLjV2OC41cy0xLjkgMS42LTMgMS42em0tMTM4LjcgNS42Yy40IDAgLjkgMCAxLjMtLjEgMy41LS4zIDYuNy0yIDguNC00LjJ2NC4xbDEyLTEuNXYtMmwtMy0yVjEzaC0xbC0xMiAyLjNWMThsNCAxLjdWMzhjLTEuMS44LTIuNCAxLjMtNC4yIDEuMy0yLjUgMC00LjgtLjgtNC44LTQuM1YxM2gtMWwtMTIgMi41djIuNmw0IDEuNlYzNmMwIDUuNCAyLjIgOS43IDguMyA5Ljd6TTk2IDM4Yy0xLjIgMC0yLjUtLjgtMi41LTEuOSAwLS44LjYtMS43IDEuNC0yLjMgMS42LjUgMyAuNiA1IC42IDcuOCAwIDEzLjItMy43IDEzLjItMTAuNCAwLTMtMS4zLTQuNi0zLjItNi40TDExNSAxOXYtNmwtOC4yIDEuNmMtMS45LS43LTQuNS0xLjYtNy0xLjYtNy44IDAtMTMuMiA0LjEtMTMuMiAxMC44IDAgNC4xIDIgNy4xIDUgOC44bC4yLjJjLTEuNyAxLjItNS4zIDQtNS4zIDcuMiAwIDIuNCAxLjUgNC44IDQuOCA1LjUtMy40LjgtNy4zIDIuNS03LjMgNi41IDAgNC4xIDUuOSA4IDE1LjUgOCAxMS44IDAgMTYuNS01LjcgMTYuNS0xMyAwLTYuMS0yLjgtOS05LjUtOUg5NnptNy41LTE0YzAgNS43LTEuMyA2LjUtMy41IDYuNXMtNC0uOC00LTYuNWMwLTUuOCAxLjgtNy41IDQtNy41czMuNSAyIDMuNSA3LjV6TTkyIDUwLjljLjEtMS41IDEuMS0zLjQgMy43LTMuNmg4LjZjMi41IDAgMy43IDIgMy43IDMuNiAwIDMuMi0yIDQuNC04LjMgNC40LTUuNSAwLTcuOC0yLjItNy43LTQuNHoiLz48cGF0aCBmaWxsPSIjQUFEOEYxIiBkPSJNODMgMzBjMC0xMy01LjEtMTYuOS0xMy0xNi45LTkgMC0xNSA2LjItMTUgMTYuNCAwIDEwLjUgNS41IDE2LjIgMTUuOCAxNi4yIDUuNiAwIDkuNy0yLjcgMTEuMi00Ljd2LTNjLTIuMS43LTMuOSAxLjItNy43IDEuMi01LjYgMC05LjMtMy4yLTkuMy05LjJoMTh6TTY5LjkgMTYuNmMyLjUgMCAzLjggMS44IDMuOCA5LjZsLTguNC43Yy4xLTcuOSAxLjgtMTAuMyA0LjYtMTAuM3pNMzcgNDV2LTNsLTMtMS41VjIxYzEuMi0uOSAzLjItMS43IDQuOC0xLjcgMi44IDAgNC4zIDEuNiA0LjIgNC4ydjE3TDQwIDQydjNoMTZ2LTNsLTMtMS41di0xOWMwLTUuNy0zLjMtOC4zLTcuNy04LjMtNC4xIDAtOC42IDEuMy0xMS4zIDMuOFYwaC0xTDIxIDJ2M2w0IDEuNXYzNEwyMiA0MnYzaDE1ek00IDM2LjRjMCA1LjcgMi44IDkuMyA4LjkgOS4zIDMuMSAwIDYuMi0uOCA4LjEtMi4zdi0zLjhjLS44LjMtMS45LjUtMi45LjUtMi45IDAtNC4xLTEuNi00LjEtNC42VjE5aDd2LTVoLTdWNi41TDQgOHY2bC00IDF2NGg0djE3LjR6Ii8+PC9zdmc+) no-repeat scroll 0px 0px / contain padding-box border-box;
+    border: 0px none rgb(0, 86, 137);
+    font: italic normal normal normal 16px/24px 'Guardian Text Egyptian Web', Georgia, serif;
+    outline: rgb(0, 86, 137) none 0px;
+}/*#I_188*/
+
+#SPAN_189 {
+    color: rgb(170, 216, 241);
+    margin-top: 62px;
+    cursor: pointer;
+    display: block;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    height: 16px;
+    left: 122px;
+    position: absolute;
+    text-rendering: optimizelegibility;
+    top: 47px;
+    white-space: nowrap;
+    width: 146.921875px;
+    align-self: stretch;
+    perspective-origin: 73.453125px 8px;
+    transform-origin: 73.453125px 8px;
+    border: 0px none rgb(170, 216, 241);
+    font: normal normal bold normal 12px/16px 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    outline: rgb(170, 216, 241) none 0px;
+}/*#SPAN_189*/
+

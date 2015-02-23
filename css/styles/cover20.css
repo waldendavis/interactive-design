@@ -1,0 +1,128 @@
+body{
+    position:relative;
+    /*background: url(http://www.yatzer.com/assets/Article/2732/images/steve-jobs-rip-1955-2011-Apple-yatzer.jpg) no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+header {
+    width: 60%;
+    margin-right: auto;
+    margin-left: 15%;
+    color: rgba(0, 0, 0, 0.8);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+}
+
+header:hover {
+    color: rgba(253, 156, 156, 1);
+}
+
+h1 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    border: 0px none;
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    /*font-style: italic;*/
+    font-size: 7em;
+    margin-top: 75px;
+    margin-left: 0%;
+    margin-right: auto;
+    padding: auto;
+    text-align: left;
+    vertical-align: middle;
+    /*line-height: 175px;*/
+    letter-spacing: 5px;
+}
+
+span {
+    font-family: 'Hammersmith One', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.75em;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+}
+
+span:hover {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+img {
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    right: 200px;
+    margin: 0px;
+    padding: 0px;
+    z-index: -999
+    transition: width 1s ease-in-out;
+    -moz-transition: width 1s ease-in-out;
+    -webkit-transition: width 1s ease-in-out;
+}
+
+img:hover {
+    width: 250px;
+}
+
+#navigation {
+    position: fixed;
+    text-align: center;
+    
+    bottom: 0px;
+    width: 100%;
+    height: 80px; /* same as navigation a height */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0%;
+    
+    background-color: rgba(253, 156, 156, 0.5);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+#navigation:hover {
+    background-color: rgba(253, 156, 156, 1);
+}
+
+#navigation a {
+    text-decoration: none;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+
+    font-size: 1.25em;
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 2.5px;
+    
+    padding-left: 0%;
+    padding-right: 0%;
+    color: rgba(0, 0, 0, 0.5);
+    height: 80px;
+    width: 0.1%;
+}
+
+#navigation a:hover {
+    color: rgba(255, 255, 255, 1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+} 
+
+

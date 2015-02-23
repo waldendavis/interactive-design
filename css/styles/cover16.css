@@ -1,0 +1,169 @@
+body{
+    position:relative;
+    background: url(http://static.businessinsider.com/image/54358c1e6bb3f7474906f089/image.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width:100%;
+    height:100%;
+    margin:0;
+    background-color: rgb(0, 250, 154);
+}
+
+body:after{
+    position:fixed;
+    content:"";
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background:rgba(242, 177, 17, 0.7);
+    z-index:-1;
+}
+
+header {
+    width: 40%;
+    margin-right: 5%;
+    margin-left: auto;
+    color: rgba(250,250,250,1);
+/*    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;*/
+}
+
+/*header:hover {
+    color: rgba(0,0,0,0.9);
+}*/
+
+h1 {
+    box-sizing: border-box;
+    text-rendering: optimizelegibility;
+    width: 100%;
+    border: 0px none;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 7em;
+    margin-top: 100px;
+    margin-left: 0%;
+    margin-right: auto;
+    padding: auto;
+    text-align: right;
+    vertical-align: middle;
+    /*line-height: 175px;*/
+    text-transform: lowercase;
+    letter-spacing: 5px;
+}
+
+img {
+    width: 50%;
+    position: absolute;
+    bottom: 0px;
+    z-index: -999
+}
+
+/*span {
+    border: solid 0px black;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    background-color: rgba(0, 0, 0, 1);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+span:hover {
+    background-color: whitesmoke;
+}*/
+
+
+#navigation {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 25%;
+    height: 47.5px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0%;
+    background-color: rgba(250, 250, 250, 0.2);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+#navigation:hover {
+    background-color: rgba(250, 250, 250, 0.8);
+}
+
+#navigation a {
+    font-size: 1.25em;
+    font-family: 'Lusitana', serif;
+    font-weight: 400;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding-left: 0%;
+    padding-right: 0%;
+    color: rgba(242, 177, 17, 1);
+    text-decoration: none;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    height: 50px;
+    width: 0.1%;
+}
+
+#navigation a:hover {
+    color: rgba(242, 177, 17, 1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+} 
+
+#text {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 24%;
+    height: 80px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    background-color: rgba(250, 250, 250, 0.2);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+}
+
+#text:hover {
+    background-color: rgba(250, 250, 250, 0.8);
+}
+
+#text p {
+    font-size: 1.25em;
+    font-family: 'Lusitana', serif;
+    font-weight: 400;
+    padding-left: 0%;
+    padding-right: 0%;
+    color: rgba(242, 177, 17, 1);
+    text-decoration: none;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    height: 70px;
+    width: 10%;
+}
+
+
+#text p:hover {
+    color: rgba(242, 177, 17, 1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+} 

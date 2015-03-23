@@ -228,84 +228,25 @@ a.grid-box:hover {
 
 /* -------------------------------------------------------------------------- */
 
-/* iPad */
-/* landscape */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
-
-}
-
-/* portrait */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
-
-}
-
-/* iPhone 4 */
-/* landscape */
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
-
-}
-
-/* portrait */
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
-
-}
-
-/* iPhone 5 */
-/* landscape */
-@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2) {
-
-}
-
-/* portrait */
-@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2) {
-
-}
-
-/* iPhone 6 */
-/* landscape */
-@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2) {
-body { background: blue}
-}
-
-/* portrait */
-@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2) {
-body { background: red}
-}
-
-/* iPhone 6+ */
-/* landscape */
-@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2) {
-body { background: red}
-}
-
-/* portrait */
-@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2) {
-
-}
-
-
-  
-/*body { background: red; }
-
 @media screen and (max-width: 1024px) {
-body { background: blue; }
+body { background: #E0DEDE; }
 }
 
 @media screen and (max-width: 768px) {
-body { background: yellow; }
+body { background: #c9c7c7; }
 }
 
 @media screen and (max-width: 600px) {
-body { background: lime; }
+body { background: #b3b1b1; }
 }
 
 @media screen and (max-width: 480px) {
-body { background: cyan; }
+body { background: #9c9b9b; }
 }
 
 @media screen and (max-width: 320px) {
-body { background: magenta; }
-}*/
+body { background: #868585; }
+}
     
   
 

@@ -1,0 +1,183 @@
+/* STYLING */
+
+h1 {
+	font-size: 2em;
+	font-family: 'Quattrocento', sans-serif;
+	font-weight: 400;
+	color: white; 
+}
+
+h2 {
+	font-size: 2em;
+	font-family: 'Quattrocento', sans-serif;
+	font-weight: 400;
+	color: white;
+}
+
+p, ul, li {
+	font-family: 'Cabin', sans-serif;
+	font-weight: 400;
+	text-transform: lowercase;
+	font-size: 1em;
+}
+
+strong {
+	font-family: 'Cabin', sans-serif;
+	font-weight: 400;
+	text-transform: lowercase;
+	font-size: 1em;
+	color: #f2f2f2;
+}
+
+li {
+	margin-bottom: 12px;
+	margin-top: 12px;
+}
+
+body {
+  	background-color: #E0DEDE;
+	margin: 0px;
+	padding: 0px;
+	color: #333333;
+}
+
+.howto {
+	height: 5000px;
+	margin: 0px;
+	width: 100%;
+}
+
+/* TEXT LINKS */
+
+#navigation a {
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.5);
+	background: none;
+}
+
+#navigation a:hover {
+	color: white;
+
+	background: -webkit-linear-gradient(left top, rgba(238, 65, 55, 1) , white); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, rgba(238, 65, 55, 1), white); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, rgba(238, 65, 55, 1), white); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, rgba(238, 65, 55, 1) , white); /* Standard syntax */
+}
+
+/* NAVIGATION */
+
+#navigation {
+    position: fixed;
+    text-align: center;
+    
+    top: 0px;
+    width: 100%;
+    height: 75px; /* same as navigation a height */
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0%;
+    z-index: 999;
+    
+    background-color: rgba(255, 255, 255, 1);
+    transition: background-color 1s ease-in-out;
+    -moz-transition: background-color 1s ease-in-out;
+    -webkit-transition: background-color 1s ease-in-out;
+
+    -webkit-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.25);
+	box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.25);
+}
+
+/*#navigation:hover {
+    background-color: rgba(238, 65, 55, 1);
+}*/
+
+#navigation a {
+    text-decoration: none;
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+
+    font-size: 1.25em;
+    font-family: 'Mark', sans-serif;
+    letter-spacing: 0.125em;
+    
+    padding-left: 0%;
+    padding-right: 0%;
+    color: rgba(0, 0, 0, 0.5);
+    height: 75px;
+    width: 0.1%;
+    z-index: 999;
+}
+
+#navigation a:hover {
+    color: rgba(255, 255, 255, 1);
+    transition: color 1s ease-in-out;
+    -moz-transition: color 1s ease-in-out;
+    -webkit-transition: color 1s ease-in-out;
+}
+
+.bigherored {
+	height: 800px;
+	width: 100%;
+	background: -webkit-linear-gradient(left top, rgba(238, 65, 55, 1) , white);
+	background: -o-linear-gradient(bottom right, rgba(238, 65, 55, 1), white);
+	background: -moz-linear-gradient(bottom right, rgba(238, 65, 55, 1), white);
+	background: linear-gradient(to bottom right, rgba(238, 65, 55, 1) , white);
+}
+
+.bigherored h1 {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 700px;
+	position: relative;
+	font-size: 7em;
+	font-family: 'Mark', sans-serif;
+}
+
+.bigherowhite {
+	height: 700px;
+	width: 100%;
+	background-color: white;
+}
+
+.bigherowhite h2 {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 800px;
+	position: relative;
+	font-size: 5em;
+	font-family: 'Mark', sans-serif;
+	color: rgba(238, 65, 55, 1);
+}
+
+/* -------------------------------------------------------------------------- */
+
+@font-face {
+   font-family: Mark;
+   src: url('fonts/MarkBlack.otf');
+} 
+
+@media screen and (max-width: 1024px) {
+body { background: #E0DEDE; }
+}
+
+@media screen and (max-width: 768px) {
+body { background: #c9c7c7; }
+}
+
+@media screen and (max-width: 600px) {
+body { background: #b3b1b1; }
+}
+
+@media screen and (max-width: 480px) {
+body { background: #9c9b9b; }
+}
+
+@media screen and (max-width: 320px) {
+body { background: #868585; }
+}
+    
+  
+

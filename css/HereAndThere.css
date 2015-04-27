@@ -29,15 +29,16 @@
   }
 
   .location {
-    font-color: white;
     background-color: white;
-    mix-blend-mode: exclusion;
+    /*mix-blend-mode: exclusion;*/
 
     position: absolute;
     vertical-align: middle;
 
     width: 100%;
-    top: 46.75%;
+    top: 42.5%;
+    padding-top: 10px;
+    height: 15%;
 
     text-align: center;
     text-transform: uppercase;

@@ -22,7 +22,8 @@
   }
 
   .location {
-    background: white;
+    background-color: white;
+    background-blend-mode: exclusion;
     position: absolute;
     vertical-align: middle;
     margin-top: 50%;
@@ -30,6 +31,7 @@
     width: 100%;
     text-transform: uppercase;
     font-family: 'Avenir', sans-serif;
+    font-weight: 600;
     font-size: 5em;
     letter-spacing: 0.5em;
     z-index: 1000;

@@ -10,6 +10,13 @@
 
   body {
     margin: 0px;
+    width: auto; 
+    height: auto;
+  }
+
+  .container {
+    display:table-cell;
+    vertical-align:middle;
   }
 
   .container img {
@@ -22,13 +29,19 @@
   }
 
   .location {
+    /*font-color: white;*/
     background-color: white;
-    background-blend-mode: exclusion;
+    mix-blend-mode: exclusion;
+
     position: absolute;
     vertical-align: middle;
-    margin-top: 50%;
-    text-align: center;
+
     width: 100%;
+    height: 175px;
+    top: 579.5px;
+    bottom: 579.5px;
+
+    text-align: center;
     text-transform: uppercase;
     font-family: 'Avenir', sans-serif;
     font-weight: 600;

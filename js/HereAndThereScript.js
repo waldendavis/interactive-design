@@ -16,24 +16,30 @@ $.ajax({
     // If the call request was successful and the data was retrieved, this function will create a list displaying the data
         
     var collection = response.results.collection1;
-
-    // console.log(collection[0].location);
-
     for (var i = 0; i < 44; i++){
 
       var randomCollection = collection[Math.floor(Math.random()*collection.length)];
       var photoURL = randomCollection.photo.href;
-      // console.log(randomCollection.location);
       var photoTEXT = randomCollection.location;
-      console.log(photoTEXT);
-
-      // console.log(photoTEXT);
 
       if(i == 0){
+        // adds in the background image
         $('.container').append('<img src="' + photoURL + '">');
+
+        // adds in the location
         $('.location').append('<div>' + photoTEXT + '</div>');
-        $('.container').click(function(){
-          $('.location').show(1000);
+
+        // hides the location
+        $('.location').hide();
+
+        // shows the location on click
+        $('body').click(function(){
+          $('.location').show();
+
+          // reloads the page on click
+          $('body').click(function() {
+            location.reload();
+          });
         });
       }
 

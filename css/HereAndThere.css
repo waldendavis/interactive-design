@@ -49,6 +49,10 @@
     letter-spacing: 0.5em;
     z-index: 1000;
   }
-
 }
+
+@font-face {
+   font-family: Avenir;
+   src: url('fonts/Avenir.otf');
+} 
 

@@ -17,15 +17,21 @@ $.ajax({
         
     var collection = response.results.collection1;
 
-    for (var i = 0; i < 3; i++){
+    // console.log(collection[0].location);
+
+    for (var i = 0; i < 44; i++){
 
       var randomCollection = collection[Math.floor(Math.random()*collection.length)];
       var photoURL = randomCollection.photo.href;
-      var photoTEXT = randomCollection.location.text;
+      // console.log(randomCollection.location);
+      var photoTEXT = randomCollection.location;
+      console.log(photoTEXT);
+
+      // console.log(photoTEXT);
 
       if(i == 0){
         $('.container').append('<img src="' + photoURL + '">');
-        $('.location').append('<div>' + photoTEXT + '</div>')
+        $('.location').append('<div>' + photoTEXT + '</div>');
         $('.container').click(function(){
           $('.location').show(1000);
         });

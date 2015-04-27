@@ -29,7 +29,7 @@
   }
 
   .location {
-    /*font-color: white;*/
+    font-color: white;
     background-color: white;
     mix-blend-mode: exclusion;
 
@@ -37,9 +37,7 @@
     vertical-align: middle;
 
     width: 100%;
-    height: 175px;
-    top: 579.5px;
-    bottom: 579.5px;
+    top: 46.75%;
 
     text-align: center;
     text-transform: uppercase;

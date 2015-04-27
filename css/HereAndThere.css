@@ -1,0 +1,39 @@
+/*for iphone 6*/
+
+@media only screen {
+  and (min-device-width : 375px) 
+  and (max-device-width : 667px)
+
+  h1 {
+    opacity: 0%
+  }
+
+  body {
+    margin: 0px;
+  }
+
+  .container img {
+    position: absolute;
+    min-width: 100%; 
+    min-height: 100%; 
+    width: auto; 
+    height: auto;
+    z-index: -1000; 
+  }
+
+  .location {
+    display: table-cell;
+    vertical-align: middle;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Avenir', sans-serif;
+    font-size: 3em;
+    letter-spacing: 0.5em;
+  }
+
+}
+

@@ -41,6 +41,16 @@ $.ajax({
             location.reload();
           });
         });
+
+        // shows the location on click
+        $('body').on('tap',function(){
+          $('.location').show();
+
+          // reloads the page on click
+          $('body').on('tap',function() {
+            location.reload();
+          });
+        });
       }
 
     }

@@ -7,7 +7,7 @@
 //    Your API key will appear. Paste this code in line 10 of the below code after "apikey-"
 
 $.ajax({
-    "url":"https://www.kimonolabs.com/api/1z4ov9om?apikey=iMdDmR4fkuEdO38181VbIPI1uh3GyOGm",
+    "url":"https://www.kimonolabs.com/api/3n4p6oy6?apikey=iMdDmR4fkuEdO38181VbIPI1uh3GyOGm",
     "crossDomain":true,
     "dataType":"jsonp",
     // Make a call to the Kimono API following the "url" 
@@ -21,7 +21,7 @@ $.ajax({
 
       var randomCollection = collection[Math.floor(Math.random()*collection.length)];
       var photoURL = randomCollection.photo.href;
-      var photoTEXT = randomCollection.photo.text;
+      var photoTEXT = randomCollection.location.text;
 
       if(i == 0){
         $('.container').append('<img src="' + photoURL + '">');

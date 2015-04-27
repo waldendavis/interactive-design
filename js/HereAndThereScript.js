@@ -33,16 +33,6 @@ $.ajax({
         $('.location').hide();
 
         // shows the location on click
-        $('body').click(function(){
-          $('.location').show();
-
-          // reloads the page on click
-          $('body').click(function() {
-            location.reload();
-          });
-        });
-
-        // shows the location on click
         $('body').on('tap',function(){
           $('.location').show();
 
@@ -51,6 +41,7 @@ $.ajax({
             location.reload();
           });
         });
+
       }
 
     }

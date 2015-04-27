@@ -33,11 +33,11 @@ $.ajax({
         $('.location').hide();
 
         // shows the location on click
-        $('body').click(function() {
+        $('body').on('touchstart click', function() {
           $('.location').show();
 
           // reloads the page on click
-          $('body').click(function() {
+          $('body').on('touchstart click', function() {
             location.reload();
           });
         });
